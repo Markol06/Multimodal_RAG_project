@@ -1,7 +1,12 @@
-import streamlit as st
-from rag import generate_answer
-import traceback
+import os
 import re
+import traceback
+
+from PIL import Image
+
+import streamlit as st
+
+from rag import generate_answer
 
 st.set_page_config(page_title="Multimodal RAG Search", layout="wide")
 
@@ -19,6 +24,13 @@ def split_into_paragraphs(text: str, sentences_per_paragraph: int = 3) -> list[s
         paragraph = " ".join(sentences[i:i + sentences_per_paragraph])
         paragraphs.append(paragraph)
     return paragraphs
+
+def load_image_from_repo(image_path: str):
+    image_name = os.path.basename(image_path)  # тільки назва файлу
+    repo_path = os.path.join("data", "processed", "images", image_name)
+    if os.path.exists(repo_path):
+        return Image.open(repo_path)
+    return None
 
 if st.button("Search") and query.strip():
     with st.spinner("Searching and generating answer..."):
@@ -49,9 +61,10 @@ if st.button("Search") and query.strip():
 
     with col_right:
         if result["results"]["images"]:
-            first_image = result["results"]["images"][0].get("image_path", None)
-            if first_image:
-                st.image(first_image, use_container_width=True)
+            first_image_path = result["results"]["images"][0].get("image_path", None)
+            img = load_image_from_repo(first_image_path) if first_image_path else None
+            if img:
+                st.image(img, use_container_width=True)
             else:
                 st.info("No image available.")
         else:
@@ -79,8 +92,9 @@ if st.button("Search") and query.strip():
             for idx, item in enumerate(result["results"]["images"], 1):
                 with st.container():
                     st.markdown(f"*Score:* `{item.get('score', 0):.4f}`")
-                    if "image_path" in item and item["image_path"]:
-                        st.image(item["image_path"], use_container_width=True)
+                    img = load_image_from_repo(item.get("image_path", ""))
+                    if img:
+                        st.image(img, use_container_width=True)
                     else:
                         st.warning("No image path available.")
                     st.markdown("---")
