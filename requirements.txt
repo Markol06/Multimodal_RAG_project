@@ -1,0 +1,9 @@
+streamlit
+openai
+faiss-cpu
+numpy
+transformers
+torch
+Pillow
+aiohttp
+beautifulsoup4

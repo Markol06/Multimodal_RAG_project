@@ -1,0 +1,2388 @@
+{
+  "per_query": {
+    "white house resets u s ai policy": {
+      "retrieved_ids": [
+        "312_white-house-resets-u-s-ai-policy_chunk_2",
+        "312_white-house-resets-u-s-ai-policy_chunk_1",
+        "312_white-house-resets-u-s-ai-policy_chunk_0",
+        "312_u-s-lifts-ban-on-ai-chips-for-china_chunk_2",
+        "310_california-reframes-ai-regulations_chunk_1"
+      ],
+      "relevant_ids": [
+        "312_white-house-resets-u-s-ai-policy_chunk_0",
+        "312_white-house-resets-u-s-ai-policy_chunk_1",
+        "312_white-house-resets-u-s-ai-policy_chunk_2"
+      ],
+      "precision@5": 0.6,
+      "recall@5": 1.0,
+      "mrr": 1.0,
+      "ndcg@5": 1.0,
+      "ap": 1.0,
+      "top1_accuracy": 1.0
+    },
+    "U.S. AI policy overhaul by White House": {
+      "retrieved_ids": [
+        "312_white-house-resets-u-s-ai-policy_chunk_2",
+        "312_white-house-resets-u-s-ai-policy_chunk_1",
+        "312_white-house-resets-u-s-ai-policy_chunk_0",
+        "310_california-reframes-ai-regulations_chunk_1",
+        "310_california-reframes-ai-regulations_chunk_0"
+      ],
+      "relevant_ids": [
+        "312_white-house-resets-u-s-ai-policy_chunk_0",
+        "312_white-house-resets-u-s-ai-policy_chunk_1",
+        "312_white-house-resets-u-s-ai-policy_chunk_2"
+      ],
+      "precision@5": 0.6,
+      "recall@5": 1.0,
+      "mrr": 1.0,
+      "ndcg@5": 1.0,
+      "ap": 1.0,
+      "top1_accuracy": 1.0
+    },
+    "government changes in artificial intelligence regulations": {
+      "retrieved_ids": [
+        "310_california-reframes-ai-regulations_chunk_1",
+        "310_california-reframes-ai-regulations_chunk_2",
+        "311_how-to-comply-with-the-eu-s-ai-act_chunk_2",
+        "311_how-to-comply-with-the-eu-s-ai-act_chunk_0",
+        "311_how-to-comply-with-the-eu-s-ai-act_chunk_1"
+      ],
+      "relevant_ids": [
+        "312_white-house-resets-u-s-ai-policy_chunk_0",
+        "312_white-house-resets-u-s-ai-policy_chunk_1",
+        "312_white-house-resets-u-s-ai-policy_chunk_2"
+      ],
+      "precision@5": 0.0,
+      "recall@5": 0.0,
+      "mrr": 0.0,
+      "ndcg@5": 0.0,
+      "ap": 0.0,
+      "top1_accuracy": 0.0
+    },
+    "qwen3 s agentic advance": {
+      "retrieved_ids": [
+        "312_qwen3-s-agentic-advance_chunk_2",
+        "312_qwen3-s-agentic-advance_chunk_1",
+        "312_qwen3-s-agentic-advance_chunk_0",
+        "309_generated-data-for-training-web-agents_chunk_1",
+        "304_next-level-deepseek-r1_chunk_2"
+      ],
+      "relevant_ids": [
+        "312_qwen3-s-agentic-advance_chunk_0",
+        "312_qwen3-s-agentic-advance_chunk_1",
+        "312_qwen3-s-agentic-advance_chunk_2"
+      ],
+      "precision@5": 0.6,
+      "recall@5": 1.0,
+      "mrr": 1.0,
+      "ndcg@5": 1.0,
+      "ap": 1.0,
+      "top1_accuracy": 1.0
+    },
+    "the agency progress of qwen3": {
+      "retrieved_ids": [
+        "312_qwen3-s-agentic-advance_chunk_1",
+        "312_qwen3-s-agentic-advance_chunk_0",
+        "309_generated-data-for-training-web-agents_chunk_1",
+        "312_qwen3-s-agentic-advance_chunk_2",
+        "309_generated-data-for-training-web-agents_chunk_2"
+      ],
+      "relevant_ids": [
+        "312_qwen3-s-agentic-advance_chunk_0",
+        "312_qwen3-s-agentic-advance_chunk_1",
+        "312_qwen3-s-agentic-advance_chunk_2"
+      ],
+      "precision@5": 0.6,
+      "recall@5": 1.0,
+      "mrr": 1.0,
+      "ndcg@5": 0.9674679834891693,
+      "ap": 0.9166666666666666,
+      "top1_accuracy": 1.0
+    },
+    "advancements in artificial intelligence agency": {
+      "retrieved_ids": [
+        "305_ai-market-trends-in-charts-and-graphs_chunk_1",
+        "305_ai-market-trends-in-charts-and-graphs_chunk_0",
+        "305_ai-market-trends-in-charts-and-graphs_chunk_2",
+        "310_california-reframes-ai-regulations_chunk_1",
+        "310_more-robust-multi-agent-systems_chunk_0"
+      ],
+      "relevant_ids": [
+        "312_qwen3-s-agentic-advance_chunk_0",
+        "312_qwen3-s-agentic-advance_chunk_1",
+        "312_qwen3-s-agentic-advance_chunk_2"
+      ],
+      "precision@5": 0.0,
+      "recall@5": 0.0,
+      "mrr": 0.0,
+      "ndcg@5": 0.0,
+      "ap": 0.0,
+      "top1_accuracy": 0.0
+    },
+    "u s lifts ban on ai chips for china": {
+      "retrieved_ids": [
+        "312_u-s-lifts-ban-on-ai-chips-for-china_chunk_2",
+        "312_u-s-lifts-ban-on-ai-chips-for-china_chunk_1",
+        "312_u-s-lifts-ban-on-ai-chips-for-china_chunk_0",
+        "312_white-house-resets-u-s-ai-policy_chunk_1",
+        "312_white-house-resets-u-s-ai-policy_chunk_2"
+      ],
+      "relevant_ids": [
+        "312_u-s-lifts-ban-on-ai-chips-for-china_chunk_0",
+        "312_u-s-lifts-ban-on-ai-chips-for-china_chunk_1",
+        "312_u-s-lifts-ban-on-ai-chips-for-china_chunk_2"
+      ],
+      "precision@5": 0.6,
+      "recall@5": 1.0,
+      "mrr": 1.0,
+      "ndcg@5": 1.0,
+      "ap": 1.0,
+      "top1_accuracy": 1.0
+    },
+    "usa removes restrictions on ai chip exports to china": {
+      "retrieved_ids": [
+        "312_u-s-lifts-ban-on-ai-chips-for-china_chunk_2",
+        "312_u-s-lifts-ban-on-ai-chips-for-china_chunk_1",
+        "312_u-s-lifts-ban-on-ai-chips-for-china_chunk_0",
+        "312_white-house-resets-u-s-ai-policy_chunk_1",
+        "312_white-house-resets-u-s-ai-policy_chunk_2"
+      ],
+      "relevant_ids": [
+        "312_u-s-lifts-ban-on-ai-chips-for-china_chunk_0",
+        "312_u-s-lifts-ban-on-ai-chips-for-china_chunk_1",
+        "312_u-s-lifts-ban-on-ai-chips-for-china_chunk_2"
+      ],
+      "precision@5": 0.6,
+      "recall@5": 1.0,
+      "mrr": 1.0,
+      "ndcg@5": 1.0,
+      "ap": 1.0,
+      "top1_accuracy": 1.0
+    },
+    "impact of us trade policies on chinese technology imports": {
+      "retrieved_ids": [
+        "312_u-s-lifts-ban-on-ai-chips-for-china_chunk_2",
+        "312_u-s-lifts-ban-on-ai-chips-for-china_chunk_1",
+        "312_white-house-resets-u-s-ai-policy_chunk_1",
+        "312_u-s-lifts-ban-on-ai-chips-for-china_chunk_0",
+        "312_white-house-resets-u-s-ai-policy_chunk_2"
+      ],
+      "relevant_ids": [
+        "312_u-s-lifts-ban-on-ai-chips-for-china_chunk_0",
+        "312_u-s-lifts-ban-on-ai-chips-for-china_chunk_1",
+        "312_u-s-lifts-ban-on-ai-chips-for-china_chunk_2"
+      ],
+      "precision@5": 0.6,
+      "recall@5": 1.0,
+      "mrr": 1.0,
+      "ndcg@5": 0.9674679834891693,
+      "ap": 0.9166666666666666,
+      "top1_accuracy": 1.0
+    },
+    "people with ai friends feel worse": {
+      "retrieved_ids": [
+        "312_people-with-ai-friends-feel-worse_chunk_1",
+        "312_people-with-ai-friends-feel-worse_chunk_2",
+        "312_people-with-ai-friends-feel-worse_chunk_0",
+        "307_ceos-look-to-ai-to-replace-workers_chunk_2",
+        "305_ai-market-trends-in-charts-and-graphs_chunk_1"
+      ],
+      "relevant_ids": [
+        "312_people-with-ai-friends-feel-worse_chunk_0",
+        "312_people-with-ai-friends-feel-worse_chunk_1",
+        "312_people-with-ai-friends-feel-worse_chunk_2"
+      ],
+      "precision@5": 0.6,
+      "recall@5": 1.0,
+      "mrr": 1.0,
+      "ndcg@5": 1.0,
+      "ap": 1.0,
+      "top1_accuracy": 1.0
+    },
+    "impact of AI friends on people's well being": {
+      "retrieved_ids": [
+        "312_people-with-ai-friends-feel-worse_chunk_1",
+        "312_people-with-ai-friends-feel-worse_chunk_2",
+        "312_people-with-ai-friends-feel-worse_chunk_0",
+        "305_ai-market-trends-in-charts-and-graphs_chunk_1",
+        "305_ai-market-trends-in-charts-and-graphs_chunk_2"
+      ],
+      "relevant_ids": [
+        "312_people-with-ai-friends-feel-worse_chunk_0",
+        "312_people-with-ai-friends-feel-worse_chunk_1",
+        "312_people-with-ai-friends-feel-worse_chunk_2"
+      ],
+      "precision@5": 0.6,
+      "recall@5": 1.0,
+      "mrr": 1.0,
+      "ndcg@5": 1.0,
+      "ap": 1.0,
+      "top1_accuracy": 1.0
+    },
+    "mental health effects of digital companionship": {
+      "retrieved_ids": [
+        "312_people-with-ai-friends-feel-worse_chunk_1",
+        "312_people-with-ai-friends-feel-worse_chunk_0",
+        "312_people-with-ai-friends-feel-worse_chunk_2",
+        "310_more-robust-multi-agent-systems_chunk_1",
+        "308_meta-s-smart-glasses-come-into-focus_chunk_0"
+      ],
+      "relevant_ids": [
+        "312_people-with-ai-friends-feel-worse_chunk_0",
+        "312_people-with-ai-friends-feel-worse_chunk_1",
+        "312_people-with-ai-friends-feel-worse_chunk_2"
+      ],
+      "precision@5": 0.6,
+      "recall@5": 1.0,
+      "mrr": 1.0,
+      "ndcg@5": 1.0,
+      "ap": 1.0,
+      "top1_accuracy": 1.0
+    },
+    "powers realign in ai assisted coding": {
+      "retrieved_ids": [
+        "311_powers-realign-in-ai-assisted-coding_chunk_1",
+        "312_qwen3-s-agentic-advance_chunk_2",
+        "311_powers-realign-in-ai-assisted-coding_chunk_0",
+        "305_ai-market-trends-in-charts-and-graphs_chunk_1",
+        "311_agentic-system-for-harder-problems_chunk_2"
+      ],
+      "relevant_ids": [
+        "311_powers-realign-in-ai-assisted-coding_chunk_0",
+        "311_powers-realign-in-ai-assisted-coding_chunk_1"
+      ],
+      "precision@5": 0.4,
+      "recall@5": 1.0,
+      "mrr": 1.0,
+      "ndcg@5": 0.9197207891481876,
+      "ap": 0.8333333333333333,
+      "top1_accuracy": 1.0
+    },
+    "shifts in authority with AI driven programming": {
+      "retrieved_ids": [
+        "307_ceos-look-to-ai-to-replace-workers_chunk_2",
+        "305_ai-market-trends-in-charts-and-graphs_chunk_1",
+        "311_powers-realign-in-ai-assisted-coding_chunk_1",
+        "307_ceos-look-to-ai-to-replace-workers_chunk_0",
+        "307_ceos-look-to-ai-to-replace-workers_chunk_1"
+      ],
+      "relevant_ids": [
+        "311_powers-realign-in-ai-assisted-coding_chunk_0",
+        "311_powers-realign-in-ai-assisted-coding_chunk_1"
+      ],
+      "precision@5": 0.2,
+      "recall@5": 0.5,
+      "mrr": 0.3333333333333333,
+      "ndcg@5": 0.3065735963827292,
+      "ap": 0.16666666666666666,
+      "top1_accuracy": 0.0
+    },
+    "impact of AI on software development trends": {
+      "retrieved_ids": [
+        "305_ai-market-trends-in-charts-and-graphs_chunk_1",
+        "305_ai-market-trends-in-charts-and-graphs_chunk_2",
+        "307_ceos-look-to-ai-to-replace-workers_chunk_2",
+        "305_ai-market-trends-in-charts-and-graphs_chunk_0",
+        "307_ceos-look-to-ai-to-replace-workers_chunk_1"
+      ],
+      "relevant_ids": [
+        "311_powers-realign-in-ai-assisted-coding_chunk_0",
+        "311_powers-realign-in-ai-assisted-coding_chunk_1"
+      ],
+      "precision@5": 0.0,
+      "recall@5": 0.0,
+      "mrr": 0.0,
+      "ndcg@5": 0.0,
+      "ap": 0.0,
+      "top1_accuracy": 0.0
+    },
+    "born to be agentic": {
+      "retrieved_ids": [
+        "311_born-to-be-agentic_chunk_2",
+        "311_agentic-system-for-harder-problems_chunk_2",
+        "312_qwen3-s-agentic-advance_chunk_2",
+        "310_more-robust-multi-agent-systems_chunk_1",
+        "311_born-to-be-agentic_chunk_0"
+      ],
+      "relevant_ids": [
+        "311_born-to-be-agentic_chunk_0",
+        "311_born-to-be-agentic_chunk_1",
+        "311_born-to-be-agentic_chunk_2"
+      ],
+      "precision@5": 0.4,
+      "recall@5": 0.6666666666666666,
+      "mrr": 1.0,
+      "ndcg@5": 0.6508205185601091,
+      "ap": 0.4666666666666666,
+      "top1_accuracy": 1.0
+    },
+    "destined to exhibit agency": {
+      "retrieved_ids": [
+        "304_phishing-for-agents_chunk_0",
+        "304_phishing-for-agents_chunk_1",
+        "311_born-to-be-agentic_chunk_2",
+        "309_generated-data-for-training-web-agents_chunk_1",
+        "310_more-robust-multi-agent-systems_chunk_0"
+      ],
+      "relevant_ids": [
+        "311_born-to-be-agentic_chunk_0",
+        "311_born-to-be-agentic_chunk_1",
+        "311_born-to-be-agentic_chunk_2"
+      ],
+      "precision@5": 0.2,
+      "recall@5": 0.3333333333333333,
+      "mrr": 0.3333333333333333,
+      "ndcg@5": 0.23463936301137822,
+      "ap": 0.1111111111111111,
+      "top1_accuracy": 0.0
+    },
+    "characteristics of agentic individuals": {
+      "retrieved_ids": [
+        "311_born-to-be-agentic_chunk_2",
+        "311_agentic-system-for-harder-problems_chunk_2",
+        "310_more-robust-multi-agent-systems_chunk_1",
+        "312_qwen3-s-agentic-advance_chunk_2",
+        "310_more-robust-multi-agent-systems_chunk_0"
+      ],
+      "relevant_ids": [
+        "311_born-to-be-agentic_chunk_0",
+        "311_born-to-be-agentic_chunk_1",
+        "311_born-to-be-agentic_chunk_2"
+      ],
+      "precision@5": 0.2,
+      "recall@5": 0.3333333333333333,
+      "mrr": 1.0,
+      "ndcg@5": 0.46927872602275644,
+      "ap": 0.3333333333333333,
+      "top1_accuracy": 1.0
+    },
+    "how to comply with the eu's ai act": {
+      "retrieved_ids": [
+        "311_how-to-comply-with-the-eu-s-ai-act_chunk_1",
+        "311_how-to-comply-with-the-eu-s-ai-act_chunk_2",
+        "311_how-to-comply-with-the-eu-s-ai-act_chunk_0",
+        "310_california-reframes-ai-regulations_chunk_1",
+        "310_california-reframes-ai-regulations_chunk_2"
+      ],
+      "relevant_ids": [
+        "311_how-to-comply-with-the-eu-s-ai-act_chunk_0",
+        "311_how-to-comply-with-the-eu-s-ai-act_chunk_1",
+        "311_how-to-comply-with-the-eu-s-ai-act_chunk_2"
+      ],
+      "precision@5": 0.6,
+      "recall@5": 1.0,
+      "mrr": 1.0,
+      "ndcg@5": 1.0,
+      "ap": 1.0,
+      "top1_accuracy": 1.0
+    },
+    "ways to adhere to the European Union's AI regulations": {
+      "retrieved_ids": [
+        "311_how-to-comply-with-the-eu-s-ai-act_chunk_0",
+        "311_how-to-comply-with-the-eu-s-ai-act_chunk_1",
+        "311_how-to-comply-with-the-eu-s-ai-act_chunk_2",
+        "310_california-reframes-ai-regulations_chunk_1",
+        "310_california-reframes-ai-regulations_chunk_2"
+      ],
+      "relevant_ids": [
+        "311_how-to-comply-with-the-eu-s-ai-act_chunk_0",
+        "311_how-to-comply-with-the-eu-s-ai-act_chunk_1",
+        "311_how-to-comply-with-the-eu-s-ai-act_chunk_2"
+      ],
+      "precision@5": 0.6,
+      "recall@5": 1.0,
+      "mrr": 1.0,
+      "ndcg@5": 1.0,
+      "ap": 1.0,
+      "top1_accuracy": 1.0
+    },
+    "understanding European technology laws for artificial intelligence": {
+      "retrieved_ids": [
+        "311_how-to-comply-with-the-eu-s-ai-act_chunk_1",
+        "311_how-to-comply-with-the-eu-s-ai-act_chunk_0",
+        "311_how-to-comply-with-the-eu-s-ai-act_chunk_2",
+        "310_california-reframes-ai-regulations_chunk_1",
+        "310_california-reframes-ai-regulations_chunk_2"
+      ],
+      "relevant_ids": [
+        "311_how-to-comply-with-the-eu-s-ai-act_chunk_0",
+        "311_how-to-comply-with-the-eu-s-ai-act_chunk_1",
+        "311_how-to-comply-with-the-eu-s-ai-act_chunk_2"
+      ],
+      "precision@5": 0.6,
+      "recall@5": 1.0,
+      "mrr": 1.0,
+      "ndcg@5": 1.0,
+      "ap": 1.0,
+      "top1_accuracy": 1.0
+    },
+    "agentic system for harder problems": {
+      "retrieved_ids": [
+        "311_agentic-system-for-harder-problems_chunk_2",
+        "311_agentic-system-for-harder-problems_chunk_0",
+        "311_agentic-system-for-harder-problems_chunk_1",
+        "310_more-robust-multi-agent-systems_chunk_1",
+        "310_more-robust-multi-agent-systems_chunk_0"
+      ],
+      "relevant_ids": [
+        "311_agentic-system-for-harder-problems_chunk_0",
+        "311_agentic-system-for-harder-problems_chunk_1",
+        "311_agentic-system-for-harder-problems_chunk_2"
+      ],
+      "precision@5": 0.6,
+      "recall@5": 1.0,
+      "mrr": 1.0,
+      "ndcg@5": 1.0,
+      "ap": 1.0,
+      "top1_accuracy": 1.0
+    },
+    "system of agency for challenging issues": {
+      "retrieved_ids": [
+        "310_more-robust-multi-agent-systems_chunk_0",
+        "310_more-robust-multi-agent-systems_chunk_1",
+        "310_california-reframes-ai-regulations_chunk_0",
+        "311_how-to-comply-with-the-eu-s-ai-act_chunk_2",
+        "311_agentic-system-for-harder-problems_chunk_2"
+      ],
+      "relevant_ids": [
+        "311_agentic-system-for-harder-problems_chunk_0",
+        "311_agentic-system-for-harder-problems_chunk_1",
+        "311_agentic-system-for-harder-problems_chunk_2"
+      ],
+      "precision@5": 0.2,
+      "recall@5": 0.3333333333333333,
+      "mrr": 0.2,
+      "ndcg@5": 0.18154179253735267,
+      "ap": 0.06666666666666667,
+      "top1_accuracy": 0.0
+    },
+    "complex problem solving mechanisms in AI": {
+      "retrieved_ids": [
+        "310_more-robust-multi-agent-systems_chunk_0",
+        "310_more-robust-multi-agent-systems_chunk_1",
+        "308_reasoning-for-no-reason_chunk_0",
+        "306_apple-sharpens-its-genai-profile_chunk_2",
+        "306_more-reasoning-for-harder-problems_chunk_1"
+      ],
+      "relevant_ids": [
+        "311_agentic-system-for-harder-problems_chunk_0",
+        "311_agentic-system-for-harder-problems_chunk_1",
+        "311_agentic-system-for-harder-problems_chunk_2"
+      ],
+      "precision@5": 0.0,
+      "recall@5": 0.0,
+      "mrr": 0.0,
+      "ndcg@5": 0.0,
+      "ap": 0.0,
+      "top1_accuracy": 0.0
+    },
+    "grok 4 shows impressive smarts questionable behavior": {
+      "retrieved_ids": [
+        "310_grok-4-shows-impressive-smarts-questionable-behavior_chunk_1",
+        "310_grok-4-shows-impressive-smarts-questionable-behavior_chunk_0",
+        "310_grok-4-shows-impressive-smarts-questionable-behavior_chunk_2",
+        "309_good-models-bad-choices_chunk_1",
+        "309_good-models-bad-choices_chunk_2"
+      ],
+      "relevant_ids": [
+        "310_grok-4-shows-impressive-smarts-questionable-behavior_chunk_0",
+        "310_grok-4-shows-impressive-smarts-questionable-behavior_chunk_1",
+        "310_grok-4-shows-impressive-smarts-questionable-behavior_chunk_2"
+      ],
+      "precision@5": 0.6,
+      "recall@5": 1.0,
+      "mrr": 1.0,
+      "ndcg@5": 1.0,
+      "ap": 1.0,
+      "top1_accuracy": 1.0
+    },
+    "grok 4 demonstrates remarkable intelligence and dubious actions": {
+      "retrieved_ids": [
+        "310_grok-4-shows-impressive-smarts-questionable-behavior_chunk_1",
+        "310_grok-4-shows-impressive-smarts-questionable-behavior_chunk_0",
+        "310_grok-4-shows-impressive-smarts-questionable-behavior_chunk_2",
+        "303_claude-4-advances-code-generation_chunk_2",
+        "309_good-models-bad-choices_chunk_1"
+      ],
+      "relevant_ids": [
+        "310_grok-4-shows-impressive-smarts-questionable-behavior_chunk_0",
+        "310_grok-4-shows-impressive-smarts-questionable-behavior_chunk_1",
+        "310_grok-4-shows-impressive-smarts-questionable-behavior_chunk_2"
+      ],
+      "precision@5": 0.6,
+      "recall@5": 1.0,
+      "mrr": 1.0,
+      "ndcg@5": 1.0,
+      "ap": 1.0,
+      "top1_accuracy": 1.0
+    },
+    "AI model capabilities and ethical concerns in new technology": {
+      "retrieved_ids": [
+        "311_how-to-comply-with-the-eu-s-ai-act_chunk_0",
+        "305_ai-market-trends-in-charts-and-graphs_chunk_1",
+        "311_how-to-comply-with-the-eu-s-ai-act_chunk_2",
+        "311_how-to-comply-with-the-eu-s-ai-act_chunk_1",
+        "310_california-reframes-ai-regulations_chunk_0"
+      ],
+      "relevant_ids": [
+        "310_grok-4-shows-impressive-smarts-questionable-behavior_chunk_0",
+        "310_grok-4-shows-impressive-smarts-questionable-behavior_chunk_1",
+        "310_grok-4-shows-impressive-smarts-questionable-behavior_chunk_2"
+      ],
+      "precision@5": 0.0,
+      "recall@5": 0.0,
+      "mrr": 0.0,
+      "ndcg@5": 0.0,
+      "ap": 0.0,
+      "top1_accuracy": 0.0
+    },
+    "meta lures talent with sky high pay": {
+      "retrieved_ids": [
+        "310_meta-lures-talent-with-sky-high-pay_chunk_2",
+        "310_meta-lures-talent-with-sky-high-pay_chunk_0",
+        "310_meta-lures-talent-with-sky-high-pay_chunk_1",
+        "307_meta-befriends-scale-ai_chunk_2",
+        "307_meta-befriends-scale-ai_chunk_1"
+      ],
+      "relevant_ids": [
+        "310_meta-lures-talent-with-sky-high-pay_chunk_0",
+        "310_meta-lures-talent-with-sky-high-pay_chunk_1",
+        "310_meta-lures-talent-with-sky-high-pay_chunk_2"
+      ],
+      "precision@5": 0.6,
+      "recall@5": 1.0,
+      "mrr": 1.0,
+      "ndcg@5": 1.0,
+      "ap": 1.0,
+      "top1_accuracy": 1.0
+    },
+    "meta attracts employees with high salaries": {
+      "retrieved_ids": [
+        "310_meta-lures-talent-with-sky-high-pay_chunk_2",
+        "310_meta-lures-talent-with-sky-high-pay_chunk_1",
+        "310_meta-lures-talent-with-sky-high-pay_chunk_0",
+        "307_meta-befriends-scale-ai_chunk_2",
+        "307_meta-befriends-scale-ai_chunk_1"
+      ],
+      "relevant_ids": [
+        "310_meta-lures-talent-with-sky-high-pay_chunk_0",
+        "310_meta-lures-talent-with-sky-high-pay_chunk_1",
+        "310_meta-lures-talent-with-sky-high-pay_chunk_2"
+      ],
+      "precision@5": 0.6,
+      "recall@5": 1.0,
+      "mrr": 1.0,
+      "ndcg@5": 1.0,
+      "ap": 1.0,
+      "top1_accuracy": 1.0
+    },
+    "how tech companies are competing with salaries": {
+      "retrieved_ids": [
+        "310_meta-lures-talent-with-sky-high-pay_chunk_1",
+        "310_meta-lures-talent-with-sky-high-pay_chunk_0",
+        "310_meta-lures-talent-with-sky-high-pay_chunk_2",
+        "307_ceos-look-to-ai-to-replace-workers_chunk_2",
+        "307_ceos-look-to-ai-to-replace-workers_chunk_0"
+      ],
+      "relevant_ids": [
+        "310_meta-lures-talent-with-sky-high-pay_chunk_0",
+        "310_meta-lures-talent-with-sky-high-pay_chunk_1",
+        "310_meta-lures-talent-with-sky-high-pay_chunk_2"
+      ],
+      "precision@5": 0.6,
+      "recall@5": 1.0,
+      "mrr": 1.0,
+      "ndcg@5": 1.0,
+      "ap": 1.0,
+      "top1_accuracy": 1.0
+    },
+    "california reframes ai regulations": {
+      "retrieved_ids": [
+        "310_california-reframes-ai-regulations_chunk_2",
+        "310_california-reframes-ai-regulations_chunk_0",
+        "310_california-reframes-ai-regulations_chunk_1",
+        "311_how-to-comply-with-the-eu-s-ai-act_chunk_2",
+        "311_how-to-comply-with-the-eu-s-ai-act_chunk_1"
+      ],
+      "relevant_ids": [
+        "310_california-reframes-ai-regulations_chunk_0",
+        "310_california-reframes-ai-regulations_chunk_1",
+        "310_california-reframes-ai-regulations_chunk_2"
+      ],
+      "precision@5": 0.6,
+      "recall@5": 1.0,
+      "mrr": 1.0,
+      "ndcg@5": 1.0,
+      "ap": 1.0,
+      "top1_accuracy": 1.0
+    },
+    "california changes artificial intelligence laws": {
+      "retrieved_ids": [
+        "310_california-reframes-ai-regulations_chunk_2",
+        "310_california-reframes-ai-regulations_chunk_1",
+        "310_california-reframes-ai-regulations_chunk_0",
+        "311_how-to-comply-with-the-eu-s-ai-act_chunk_1",
+        "311_how-to-comply-with-the-eu-s-ai-act_chunk_2"
+      ],
+      "relevant_ids": [
+        "310_california-reframes-ai-regulations_chunk_0",
+        "310_california-reframes-ai-regulations_chunk_1",
+        "310_california-reframes-ai-regulations_chunk_2"
+      ],
+      "precision@5": 0.6,
+      "recall@5": 1.0,
+      "mrr": 1.0,
+      "ndcg@5": 1.0,
+      "ap": 1.0,
+      "top1_accuracy": 1.0
+    },
+    "how california is managing technology regulations": {
+      "retrieved_ids": [
+        "310_california-reframes-ai-regulations_chunk_2",
+        "310_california-reframes-ai-regulations_chunk_0",
+        "310_california-reframes-ai-regulations_chunk_1",
+        "311_how-to-comply-with-the-eu-s-ai-act_chunk_2",
+        "311_how-to-comply-with-the-eu-s-ai-act_chunk_1"
+      ],
+      "relevant_ids": [
+        "310_california-reframes-ai-regulations_chunk_0",
+        "310_california-reframes-ai-regulations_chunk_1",
+        "310_california-reframes-ai-regulations_chunk_2"
+      ],
+      "precision@5": 0.6,
+      "recall@5": 1.0,
+      "mrr": 1.0,
+      "ndcg@5": 1.0,
+      "ap": 1.0,
+      "top1_accuracy": 1.0
+    },
+    "more robust multi agent systems": {
+      "retrieved_ids": [
+        "310_more-robust-multi-agent-systems_chunk_0",
+        "310_more-robust-multi-agent-systems_chunk_1",
+        "311_agentic-system-for-harder-problems_chunk_2",
+        "307_a-research-agent-for-all-biology_chunk_0",
+        "309_generated-data-for-training-web-agents_chunk_1"
+      ],
+      "relevant_ids": [
+        "310_more-robust-multi-agent-systems_chunk_0",
+        "310_more-robust-multi-agent-systems_chunk_1"
+      ],
+      "precision@5": 0.4,
+      "recall@5": 1.0,
+      "mrr": 1.0,
+      "ndcg@5": 1.0,
+      "ap": 1.0,
+      "top1_accuracy": 1.0
+    },
+    "enhancing the robustness of multi agent systems": {
+      "retrieved_ids": [
+        "310_more-robust-multi-agent-systems_chunk_1",
+        "310_more-robust-multi-agent-systems_chunk_0",
+        "311_agentic-system-for-harder-problems_chunk_2",
+        "304_phishing-for-agents_chunk_0",
+        "309_generated-data-for-training-web-agents_chunk_1"
+      ],
+      "relevant_ids": [
+        "310_more-robust-multi-agent-systems_chunk_0",
+        "310_more-robust-multi-agent-systems_chunk_1"
+      ],
+      "precision@5": 0.4,
+      "recall@5": 1.0,
+      "mrr": 1.0,
+      "ndcg@5": 1.0,
+      "ap": 1.0,
+      "top1_accuracy": 1.0
+    },
+    "improving coordination in agent based models": {
+      "retrieved_ids": [
+        "310_more-robust-multi-agent-systems_chunk_1",
+        "310_more-robust-multi-agent-systems_chunk_0",
+        "311_agentic-system-for-harder-problems_chunk_2",
+        "307_a-research-agent-for-all-biology_chunk_0",
+        "307_a-research-agent-for-all-biology_chunk_2"
+      ],
+      "relevant_ids": [
+        "310_more-robust-multi-agent-systems_chunk_0",
+        "310_more-robust-multi-agent-systems_chunk_1"
+      ],
+      "precision@5": 0.4,
+      "recall@5": 1.0,
+      "mrr": 1.0,
+      "ndcg@5": 1.0,
+      "ap": 1.0,
+      "top1_accuracy": 1.0
+    },
+    "good models bad choices": {
+      "retrieved_ids": [
+        "309_good-models-bad-choices_chunk_3",
+        "309_good-models-bad-choices_chunk_1",
+        "309_good-models-bad-choices_chunk_2",
+        "309_good-models-bad-choices_chunk_0",
+        "308_reasoning-for-no-reason_chunk_0"
+      ],
+      "relevant_ids": [
+        "309_good-models-bad-choices_chunk_0",
+        "309_good-models-bad-choices_chunk_1",
+        "309_good-models-bad-choices_chunk_2",
+        "309_good-models-bad-choices_chunk_3"
+      ],
+      "precision@5": 0.8,
+      "recall@5": 1.0,
+      "mrr": 1.0,
+      "ndcg@5": 1.0,
+      "ap": 1.0,
+      "top1_accuracy": 1.0
+    },
+    "effective models leading to poor decisions": {
+      "retrieved_ids": [
+        "309_good-models-bad-choices_chunk_2",
+        "309_good-models-bad-choices_chunk_3",
+        "309_good-models-bad-choices_chunk_1",
+        "308_reasoning-for-no-reason_chunk_0",
+        "309_good-models-bad-choices_chunk_0"
+      ],
+      "relevant_ids": [
+        "309_good-models-bad-choices_chunk_0",
+        "309_good-models-bad-choices_chunk_1",
+        "309_good-models-bad-choices_chunk_2",
+        "309_good-models-bad-choices_chunk_3"
+      ],
+      "precision@5": 0.8,
+      "recall@5": 1.0,
+      "mrr": 1.0,
+      "ndcg@5": 0.9828920819566879,
+      "ap": 0.95,
+      "top1_accuracy": 1.0
+    },
+    "how decision making can go wrong despite good tools": {
+      "retrieved_ids": [
+        "309_good-models-bad-choices_chunk_3",
+        "309_good-models-bad-choices_chunk_2",
+        "309_good-models-bad-choices_chunk_1",
+        "308_reasoning-for-no-reason_chunk_0",
+        "310_more-robust-multi-agent-systems_chunk_0"
+      ],
+      "relevant_ids": [
+        "309_good-models-bad-choices_chunk_0",
+        "309_good-models-bad-choices_chunk_1",
+        "309_good-models-bad-choices_chunk_2",
+        "309_good-models-bad-choices_chunk_3"
+      ],
+      "precision@5": 0.6,
+      "recall@5": 0.75,
+      "mrr": 1.0,
+      "ndcg@5": 0.8318724637288826,
+      "ap": 0.75,
+      "top1_accuracy": 1.0
+    },
+    "robotic beehive for healthier bees": {
+      "retrieved_ids": [
+        "309_robotic-beehive-for-healthier-bees_chunk_2",
+        "309_robotic-beehive-for-healthier-bees_chunk_0",
+        "309_robotic-beehive-for-healthier-bees_chunk_1",
+        "307_a-research-agent-for-all-biology_chunk_0",
+        "307_a-research-agent-for-all-biology_chunk_1"
+      ],
+      "relevant_ids": [
+        "309_robotic-beehive-for-healthier-bees_chunk_0",
+        "309_robotic-beehive-for-healthier-bees_chunk_1",
+        "309_robotic-beehive-for-healthier-bees_chunk_2"
+      ],
+      "precision@5": 0.6,
+      "recall@5": 1.0,
+      "mrr": 1.0,
+      "ndcg@5": 1.0,
+      "ap": 1.0,
+      "top1_accuracy": 1.0
+    },
+    "automated beehive technology for improving bee health": {
+      "retrieved_ids": [
+        "309_robotic-beehive-for-healthier-bees_chunk_2",
+        "309_robotic-beehive-for-healthier-bees_chunk_0",
+        "309_robotic-beehive-for-healthier-bees_chunk_1",
+        "307_a-research-agent-for-all-biology_chunk_0",
+        "311_agentic-system-for-harder-problems_chunk_2"
+      ],
+      "relevant_ids": [
+        "309_robotic-beehive-for-healthier-bees_chunk_0",
+        "309_robotic-beehive-for-healthier-bees_chunk_1",
+        "309_robotic-beehive-for-healthier-bees_chunk_2"
+      ],
+      "precision@5": 0.6,
+      "recall@5": 1.0,
+      "mrr": 1.0,
+      "ndcg@5": 1.0,
+      "ap": 1.0,
+      "top1_accuracy": 1.0
+    },
+    "innovations in bee farming and hive automation": {
+      "retrieved_ids": [
+        "309_robotic-beehive-for-healthier-bees_chunk_1",
+        "309_robotic-beehive-for-healthier-bees_chunk_0",
+        "309_robotic-beehive-for-healthier-bees_chunk_2",
+        "305_ai-market-trends-in-charts-and-graphs_chunk_1",
+        "307_ceos-look-to-ai-to-replace-workers_chunk_1"
+      ],
+      "relevant_ids": [
+        "309_robotic-beehive-for-healthier-bees_chunk_0",
+        "309_robotic-beehive-for-healthier-bees_chunk_1",
+        "309_robotic-beehive-for-healthier-bees_chunk_2"
+      ],
+      "precision@5": 0.6,
+      "recall@5": 1.0,
+      "mrr": 1.0,
+      "ndcg@5": 1.0,
+      "ap": 1.0,
+      "top1_accuracy": 1.0
+    },
+    "inside walmart's ai app factory": {
+      "retrieved_ids": [
+        "309_inside-walmart-s-ai-app-factory_chunk_1",
+        "309_inside-walmart-s-ai-app-factory_chunk_0",
+        "307_ceos-look-to-ai-to-replace-workers_chunk_0",
+        "305_ai-market-trends-in-charts-and-graphs_chunk_1",
+        "307_ceos-look-to-ai-to-replace-workers_chunk_2"
+      ],
+      "relevant_ids": [
+        "309_inside-walmart-s-ai-app-factory_chunk_0",
+        "309_inside-walmart-s-ai-app-factory_chunk_1"
+      ],
+      "precision@5": 0.4,
+      "recall@5": 1.0,
+      "mrr": 1.0,
+      "ndcg@5": 1.0,
+      "ap": 1.0,
+      "top1_accuracy": 1.0
+    },
+    "exploring walmart's artificial intelligence application development center": {
+      "retrieved_ids": [
+        "309_inside-walmart-s-ai-app-factory_chunk_1",
+        "309_inside-walmart-s-ai-app-factory_chunk_0",
+        "305_ai-market-trends-in-charts-and-graphs_chunk_1",
+        "308_amazon-s-constellation-of-compute_chunk_1",
+        "307_ceos-look-to-ai-to-replace-workers_chunk_2"
+      ],
+      "relevant_ids": [
+        "309_inside-walmart-s-ai-app-factory_chunk_0",
+        "309_inside-walmart-s-ai-app-factory_chunk_1"
+      ],
+      "precision@5": 0.4,
+      "recall@5": 1.0,
+      "mrr": 1.0,
+      "ndcg@5": 1.0,
+      "ap": 1.0,
+      "top1_accuracy": 1.0
+    },
+    "walmart's digital transformation and technology initiatives": {
+      "retrieved_ids": [
+        "309_inside-walmart-s-ai-app-factory_chunk_1",
+        "309_inside-walmart-s-ai-app-factory_chunk_0",
+        "308_amazon-s-constellation-of-compute_chunk_1",
+        "307_ceos-look-to-ai-to-replace-workers_chunk_0",
+        "307_ceos-look-to-ai-to-replace-workers_chunk_2"
+      ],
+      "relevant_ids": [
+        "309_inside-walmart-s-ai-app-factory_chunk_0",
+        "309_inside-walmart-s-ai-app-factory_chunk_1"
+      ],
+      "precision@5": 0.4,
+      "recall@5": 1.0,
+      "mrr": 1.0,
+      "ndcg@5": 1.0,
+      "ap": 1.0,
+      "top1_accuracy": 1.0
+    },
+    "generated data for training web agents": {
+      "retrieved_ids": [
+        "309_generated-data-for-training-web-agents_chunk_0",
+        "309_generated-data-for-training-web-agents_chunk_1",
+        "309_generated-data-for-training-web-agents_chunk_2",
+        "304_phishing-for-agents_chunk_1",
+        "307_a-research-agent-for-all-biology_chunk_0"
+      ],
+      "relevant_ids": [
+        "309_generated-data-for-training-web-agents_chunk_0",
+        "309_generated-data-for-training-web-agents_chunk_1",
+        "309_generated-data-for-training-web-agents_chunk_2"
+      ],
+      "precision@5": 0.6,
+      "recall@5": 1.0,
+      "mrr": 1.0,
+      "ndcg@5": 1.0,
+      "ap": 1.0,
+      "top1_accuracy": 1.0
+    },
+    "synthetic data used for developing web agents": {
+      "retrieved_ids": [
+        "309_generated-data-for-training-web-agents_chunk_0",
+        "309_generated-data-for-training-web-agents_chunk_1",
+        "309_generated-data-for-training-web-agents_chunk_2",
+        "307_a-research-agent-for-all-biology_chunk_0",
+        "304_phishing-for-agents_chunk_1"
+      ],
+      "relevant_ids": [
+        "309_generated-data-for-training-web-agents_chunk_0",
+        "309_generated-data-for-training-web-agents_chunk_1",
+        "309_generated-data-for-training-web-agents_chunk_2"
+      ],
+      "precision@5": 0.6,
+      "recall@5": 1.0,
+      "mrr": 1.0,
+      "ndcg@5": 1.0,
+      "ap": 1.0,
+      "top1_accuracy": 1.0
+    },
+    "training AI with generated datasets": {
+      "retrieved_ids": [
+        "309_generated-data-for-training-web-agents_chunk_0",
+        "309_generated-data-for-training-web-agents_chunk_2",
+        "305_ai-market-trends-in-charts-and-graphs_chunk_1",
+        "304_machine-translation-in-action_chunk_0",
+        "303_did-gpt-4o-train-on-o-reilly-books_chunk_1"
+      ],
+      "relevant_ids": [
+        "309_generated-data-for-training-web-agents_chunk_0",
+        "309_generated-data-for-training-web-agents_chunk_1",
+        "309_generated-data-for-training-web-agents_chunk_2"
+      ],
+      "precision@5": 0.4,
+      "recall@5": 0.6666666666666666,
+      "mrr": 1.0,
+      "ndcg@5": 0.7653606369886217,
+      "ap": 0.6666666666666666,
+      "top1_accuracy": 1.0
+    },
+    "amazon s constellation of compute": {
+      "retrieved_ids": [
+        "308_amazon-s-constellation-of-compute_chunk_1",
+        "308_amazon-s-constellation-of-compute_chunk_0",
+        "311_powers-realign-in-ai-assisted-coding_chunk_1",
+        "309_inside-walmart-s-ai-app-factory_chunk_0",
+        "303_google-i-o-overdrive_chunk_1"
+      ],
+      "relevant_ids": [
+        "308_amazon-s-constellation-of-compute_chunk_0",
+        "308_amazon-s-constellation-of-compute_chunk_1"
+      ],
+      "precision@5": 0.4,
+      "recall@5": 1.0,
+      "mrr": 1.0,
+      "ndcg@5": 1.0,
+      "ap": 1.0,
+      "top1_accuracy": 1.0
+    },
+    "Amazon's network of computing services": {
+      "retrieved_ids": [
+        "308_amazon-s-constellation-of-compute_chunk_1",
+        "308_amazon-s-constellation-of-compute_chunk_0",
+        "309_inside-walmart-s-ai-app-factory_chunk_0",
+        "309_inside-walmart-s-ai-app-factory_chunk_1",
+        "304_ai-uses-energy-ai-saves-energy_chunk_1"
+      ],
+      "relevant_ids": [
+        "308_amazon-s-constellation-of-compute_chunk_0",
+        "308_amazon-s-constellation-of-compute_chunk_1"
+      ],
+      "precision@5": 0.4,
+      "recall@5": 1.0,
+      "mrr": 1.0,
+      "ndcg@5": 1.0,
+      "ap": 1.0,
+      "top1_accuracy": 1.0
+    },
+    "cloud computing trends and Amazon web services": {
+      "retrieved_ids": [
+        "308_amazon-s-constellation-of-compute_chunk_1",
+        "308_amazon-s-constellation-of-compute_chunk_0",
+        "305_ai-market-trends-in-charts-and-graphs_chunk_2",
+        "304_ai-uses-energy-ai-saves-energy_chunk_1",
+        "305_ai-market-trends-in-charts-and-graphs_chunk_0"
+      ],
+      "relevant_ids": [
+        "308_amazon-s-constellation-of-compute_chunk_0",
+        "308_amazon-s-constellation-of-compute_chunk_1"
+      ],
+      "precision@5": 0.4,
+      "recall@5": 1.0,
+      "mrr": 1.0,
+      "ndcg@5": 1.0,
+      "ap": 1.0,
+      "top1_accuracy": 1.0
+    },
+    "meta's smart glasses come into focus": {
+      "retrieved_ids": [
+        "308_meta-s-smart-glasses-come-into-focus_chunk_2",
+        "308_meta-s-smart-glasses-come-into-focus_chunk_0",
+        "308_meta-s-smart-glasses-come-into-focus_chunk_1",
+        "307_meta-befriends-scale-ai_chunk_1",
+        "307_meta-befriends-scale-ai_chunk_2"
+      ],
+      "relevant_ids": [
+        "308_meta-s-smart-glasses-come-into-focus_chunk_0",
+        "308_meta-s-smart-glasses-come-into-focus_chunk_1",
+        "308_meta-s-smart-glasses-come-into-focus_chunk_2"
+      ],
+      "precision@5": 0.6,
+      "recall@5": 1.0,
+      "mrr": 1.0,
+      "ndcg@5": 1.0,
+      "ap": 1.0,
+      "top1_accuracy": 1.0
+    },
+    "meta's smart eyewear gains clarity": {
+      "retrieved_ids": [
+        "308_meta-s-smart-glasses-come-into-focus_chunk_2",
+        "308_meta-s-smart-glasses-come-into-focus_chunk_0",
+        "308_meta-s-smart-glasses-come-into-focus_chunk_1",
+        "307_meta-befriends-scale-ai_chunk_1",
+        "310_meta-lures-talent-with-sky-high-pay_chunk_2"
+      ],
+      "relevant_ids": [
+        "308_meta-s-smart-glasses-come-into-focus_chunk_0",
+        "308_meta-s-smart-glasses-come-into-focus_chunk_1",
+        "308_meta-s-smart-glasses-come-into-focus_chunk_2"
+      ],
+      "precision@5": 0.6,
+      "recall@5": 1.0,
+      "mrr": 1.0,
+      "ndcg@5": 1.0,
+      "ap": 1.0,
+      "top1_accuracy": 1.0
+    },
+    "latest trends in augmented reality eyewear": {
+      "retrieved_ids": [
+        "308_meta-s-smart-glasses-come-into-focus_chunk_0",
+        "308_meta-s-smart-glasses-come-into-focus_chunk_2",
+        "308_meta-s-smart-glasses-come-into-focus_chunk_1",
+        "305_ai-market-trends-in-charts-and-graphs_chunk_2",
+        "305_ai-market-trends-in-charts-and-graphs_chunk_0"
+      ],
+      "relevant_ids": [
+        "308_meta-s-smart-glasses-come-into-focus_chunk_0",
+        "308_meta-s-smart-glasses-come-into-focus_chunk_1",
+        "308_meta-s-smart-glasses-come-into-focus_chunk_2"
+      ],
+      "precision@5": 0.6,
+      "recall@5": 1.0,
+      "mrr": 1.0,
+      "ndcg@5": 1.0,
+      "ap": 1.0,
+      "top1_accuracy": 1.0
+    },
+    "ai weather prediction gains traction": {
+      "retrieved_ids": [
+        "308_ai-weather-prediction-gains-traction_chunk_0",
+        "308_ai-weather-prediction-gains-traction_chunk_1",
+        "308_ai-weather-prediction-gains-traction_chunk_2",
+        "304_ai-uses-energy-ai-saves-energy_chunk_1",
+        "311_powers-realign-in-ai-assisted-coding_chunk_0"
+      ],
+      "relevant_ids": [
+        "308_ai-weather-prediction-gains-traction_chunk_0",
+        "308_ai-weather-prediction-gains-traction_chunk_1",
+        "308_ai-weather-prediction-gains-traction_chunk_2"
+      ],
+      "precision@5": 0.6,
+      "recall@5": 1.0,
+      "mrr": 1.0,
+      "ndcg@5": 1.0,
+      "ap": 1.0,
+      "top1_accuracy": 1.0
+    },
+    "rise in popularity of AI driven weather forecasting": {
+      "retrieved_ids": [
+        "308_ai-weather-prediction-gains-traction_chunk_0",
+        "308_ai-weather-prediction-gains-traction_chunk_2",
+        "308_ai-weather-prediction-gains-traction_chunk_1",
+        "305_ai-market-trends-in-charts-and-graphs_chunk_1",
+        "305_ai-market-trends-in-charts-and-graphs_chunk_0"
+      ],
+      "relevant_ids": [
+        "308_ai-weather-prediction-gains-traction_chunk_0",
+        "308_ai-weather-prediction-gains-traction_chunk_1",
+        "308_ai-weather-prediction-gains-traction_chunk_2"
+      ],
+      "precision@5": 0.6,
+      "recall@5": 1.0,
+      "mrr": 1.0,
+      "ndcg@5": 1.0,
+      "ap": 1.0,
+      "top1_accuracy": 1.0
+    },
+    "impact of AI on climate predictions": {
+      "retrieved_ids": [
+        "304_ai-uses-energy-ai-saves-energy_chunk_1",
+        "304_ai-uses-energy-ai-saves-energy_chunk_2",
+        "308_ai-weather-prediction-gains-traction_chunk_1",
+        "304_ai-uses-energy-ai-saves-energy_chunk_0",
+        "305_ai-market-trends-in-charts-and-graphs_chunk_1"
+      ],
+      "relevant_ids": [
+        "308_ai-weather-prediction-gains-traction_chunk_0",
+        "308_ai-weather-prediction-gains-traction_chunk_1",
+        "308_ai-weather-prediction-gains-traction_chunk_2"
+      ],
+      "precision@5": 0.2,
+      "recall@5": 0.3333333333333333,
+      "mrr": 0.3333333333333333,
+      "ndcg@5": 0.23463936301137822,
+      "ap": 0.1111111111111111,
+      "top1_accuracy": 0.0
+    },
+    "reasoning for no reason": {
+      "retrieved_ids": [
+        "308_reasoning-for-no-reason_chunk_1",
+        "308_reasoning-for-no-reason_chunk_0",
+        "306_more-reasoning-for-harder-problems_chunk_1",
+        "305_benchmarking-costs-climb_chunk_0",
+        "312_qwen3-s-agentic-advance_chunk_1"
+      ],
+      "relevant_ids": [
+        "308_reasoning-for-no-reason_chunk_0",
+        "308_reasoning-for-no-reason_chunk_1"
+      ],
+      "precision@5": 0.4,
+      "recall@5": 1.0,
+      "mrr": 1.0,
+      "ndcg@5": 1.0,
+      "ap": 1.0,
+      "top1_accuracy": 1.0
+    },
+    "logic without a cause": {
+      "retrieved_ids": [
+        "308_reasoning-for-no-reason_chunk_1",
+        "308_reasoning-for-no-reason_chunk_0",
+        "309_good-models-bad-choices_chunk_2",
+        "306_more-reasoning-for-harder-problems_chunk_1",
+        "309_good-models-bad-choices_chunk_1"
+      ],
+      "relevant_ids": [
+        "308_reasoning-for-no-reason_chunk_0",
+        "308_reasoning-for-no-reason_chunk_1"
+      ],
+      "precision@5": 0.4,
+      "recall@5": 1.0,
+      "mrr": 1.0,
+      "ndcg@5": 1.0,
+      "ap": 1.0,
+      "top1_accuracy": 1.0
+    },
+    "unexplained thought processes": {
+      "retrieved_ids": [
+        "308_reasoning-for-no-reason_chunk_0",
+        "308_reasoning-for-no-reason_chunk_1",
+        "312_qwen3-s-agentic-advance_chunk_1",
+        "312_qwen3-s-agentic-advance_chunk_0",
+        "306_more-reasoning-for-harder-problems_chunk_1"
+      ],
+      "relevant_ids": [
+        "308_reasoning-for-no-reason_chunk_0",
+        "308_reasoning-for-no-reason_chunk_1"
+      ],
+      "precision@5": 0.4,
+      "recall@5": 1.0,
+      "mrr": 1.0,
+      "ndcg@5": 1.0,
+      "ap": 1.0,
+      "top1_accuracy": 1.0
+    },
+    "meta befriends scale ai": {
+      "retrieved_ids": [
+        "307_meta-befriends-scale-ai_chunk_2",
+        "307_meta-befriends-scale-ai_chunk_1",
+        "307_meta-befriends-scale-ai_chunk_0",
+        "310_meta-lures-talent-with-sky-high-pay_chunk_2",
+        "310_meta-lures-talent-with-sky-high-pay_chunk_1"
+      ],
+      "relevant_ids": [
+        "307_meta-befriends-scale-ai_chunk_0",
+        "307_meta-befriends-scale-ai_chunk_1",
+        "307_meta-befriends-scale-ai_chunk_2"
+      ],
+      "precision@5": 0.6,
+      "recall@5": 1.0,
+      "mrr": 1.0,
+      "ndcg@5": 1.0,
+      "ap": 1.0,
+      "top1_accuracy": 1.0
+    },
+    "meta partners with scale ai": {
+      "retrieved_ids": [
+        "307_meta-befriends-scale-ai_chunk_0",
+        "307_meta-befriends-scale-ai_chunk_1",
+        "307_meta-befriends-scale-ai_chunk_2",
+        "305_ai-market-trends-in-charts-and-graphs_chunk_1",
+        "310_meta-lures-talent-with-sky-high-pay_chunk_2"
+      ],
+      "relevant_ids": [
+        "307_meta-befriends-scale-ai_chunk_0",
+        "307_meta-befriends-scale-ai_chunk_1",
+        "307_meta-befriends-scale-ai_chunk_2"
+      ],
+      "precision@5": 0.6,
+      "recall@5": 1.0,
+      "mrr": 1.0,
+      "ndcg@5": 1.0,
+      "ap": 1.0,
+      "top1_accuracy": 1.0
+    },
+    "collaboration between tech giants and ai companies": {
+      "retrieved_ids": [
+        "305_ai-market-trends-in-charts-and-graphs_chunk_1",
+        "307_ceos-look-to-ai-to-replace-workers_chunk_2",
+        "312_white-house-resets-u-s-ai-policy_chunk_1",
+        "311_how-to-comply-with-the-eu-s-ai-act_chunk_2",
+        "303_google-i-o-overdrive_chunk_2"
+      ],
+      "relevant_ids": [
+        "307_meta-befriends-scale-ai_chunk_0",
+        "307_meta-befriends-scale-ai_chunk_1",
+        "307_meta-befriends-scale-ai_chunk_2"
+      ],
+      "precision@5": 0.0,
+      "recall@5": 0.0,
+      "mrr": 0.0,
+      "ndcg@5": 0.0,
+      "ap": 0.0,
+      "top1_accuracy": 0.0
+    },
+    "a research agent for all biology": {
+      "retrieved_ids": [
+        "307_a-research-agent-for-all-biology_chunk_2",
+        "307_a-research-agent-for-all-biology_chunk_0",
+        "307_a-research-agent-for-all-biology_chunk_1",
+        "309_generated-data-for-training-web-agents_chunk_0",
+        "304_phishing-for-agents_chunk_1"
+      ],
+      "relevant_ids": [
+        "307_a-research-agent-for-all-biology_chunk_0",
+        "307_a-research-agent-for-all-biology_chunk_1",
+        "307_a-research-agent-for-all-biology_chunk_2"
+      ],
+      "precision@5": 0.6,
+      "recall@5": 1.0,
+      "mrr": 1.0,
+      "ndcg@5": 1.0,
+      "ap": 1.0,
+      "top1_accuracy": 1.0
+    },
+    "an investigative tool for comprehensive biological studies": {
+      "retrieved_ids": [
+        "307_a-research-agent-for-all-biology_chunk_0",
+        "307_a-research-agent-for-all-biology_chunk_2",
+        "307_a-research-agent-for-all-biology_chunk_1",
+        "304_next-level-deepseek-r1_chunk_2",
+        "311_agentic-system-for-harder-problems_chunk_2"
+      ],
+      "relevant_ids": [
+        "307_a-research-agent-for-all-biology_chunk_0",
+        "307_a-research-agent-for-all-biology_chunk_1",
+        "307_a-research-agent-for-all-biology_chunk_2"
+      ],
+      "precision@5": 0.6,
+      "recall@5": 1.0,
+      "mrr": 1.0,
+      "ndcg@5": 1.0,
+      "ap": 1.0,
+      "top1_accuracy": 1.0
+    },
+    "biology research tools and techniques": {
+      "retrieved_ids": [
+        "307_a-research-agent-for-all-biology_chunk_2",
+        "307_a-research-agent-for-all-biology_chunk_0",
+        "307_a-research-agent-for-all-biology_chunk_1",
+        "309_generated-data-for-training-web-agents_chunk_0",
+        "311_agentic-system-for-harder-problems_chunk_2"
+      ],
+      "relevant_ids": [
+        "307_a-research-agent-for-all-biology_chunk_0",
+        "307_a-research-agent-for-all-biology_chunk_1",
+        "307_a-research-agent-for-all-biology_chunk_2"
+      ],
+      "precision@5": 0.6,
+      "recall@5": 1.0,
+      "mrr": 1.0,
+      "ndcg@5": 1.0,
+      "ap": 1.0,
+      "top1_accuracy": 1.0
+    },
+    "ceos look to ai to replace workers": {
+      "retrieved_ids": [
+        "307_ceos-look-to-ai-to-replace-workers_chunk_2",
+        "307_ceos-look-to-ai-to-replace-workers_chunk_0",
+        "307_ceos-look-to-ai-to-replace-workers_chunk_1",
+        "305_ai-market-trends-in-charts-and-graphs_chunk_1",
+        "305_ai-market-trends-in-charts-and-graphs_chunk_2"
+      ],
+      "relevant_ids": [
+        "307_ceos-look-to-ai-to-replace-workers_chunk_0",
+        "307_ceos-look-to-ai-to-replace-workers_chunk_1",
+        "307_ceos-look-to-ai-to-replace-workers_chunk_2"
+      ],
+      "precision@5": 0.6,
+      "recall@5": 1.0,
+      "mrr": 1.0,
+      "ndcg@5": 1.0,
+      "ap": 1.0,
+      "top1_accuracy": 1.0
+    },
+    "executives considering ai for workforce replacement": {
+      "retrieved_ids": [
+        "307_ceos-look-to-ai-to-replace-workers_chunk_2",
+        "307_ceos-look-to-ai-to-replace-workers_chunk_0",
+        "307_ceos-look-to-ai-to-replace-workers_chunk_1",
+        "305_ai-market-trends-in-charts-and-graphs_chunk_1",
+        "312_white-house-resets-u-s-ai-policy_chunk_2"
+      ],
+      "relevant_ids": [
+        "307_ceos-look-to-ai-to-replace-workers_chunk_0",
+        "307_ceos-look-to-ai-to-replace-workers_chunk_1",
+        "307_ceos-look-to-ai-to-replace-workers_chunk_2"
+      ],
+      "precision@5": 0.6,
+      "recall@5": 1.0,
+      "mrr": 1.0,
+      "ndcg@5": 1.0,
+      "ap": 1.0,
+      "top1_accuracy": 1.0
+    },
+    "impact of artificial intelligence on job market and worker displacement": {
+      "retrieved_ids": [
+        "307_ceos-look-to-ai-to-replace-workers_chunk_1",
+        "307_ceos-look-to-ai-to-replace-workers_chunk_0",
+        "305_ai-market-trends-in-charts-and-graphs_chunk_1",
+        "307_ceos-look-to-ai-to-replace-workers_chunk_2",
+        "305_ai-market-trends-in-charts-and-graphs_chunk_2"
+      ],
+      "relevant_ids": [
+        "307_ceos-look-to-ai-to-replace-workers_chunk_0",
+        "307_ceos-look-to-ai-to-replace-workers_chunk_1",
+        "307_ceos-look-to-ai-to-replace-workers_chunk_2"
+      ],
+      "precision@5": 0.6,
+      "recall@5": 1.0,
+      "mrr": 1.0,
+      "ndcg@5": 0.9674679834891693,
+      "ap": 0.9166666666666666,
+      "top1_accuracy": 1.0
+    },
+    "low precision high performance": {
+      "retrieved_ids": [
+        "307_low-precision-high-performance_chunk_2",
+        "307_low-precision-high-performance_chunk_1",
+        "307_low-precision-high-performance_chunk_0",
+        "304_next-level-deepseek-r1_chunk_1",
+        "304_next-level-deepseek-r1_chunk_2"
+      ],
+      "relevant_ids": [
+        "307_low-precision-high-performance_chunk_0",
+        "307_low-precision-high-performance_chunk_1",
+        "307_low-precision-high-performance_chunk_2"
+      ],
+      "precision@5": 0.6,
+      "recall@5": 1.0,
+      "mrr": 1.0,
+      "ndcg@5": 1.0,
+      "ap": 1.0,
+      "top1_accuracy": 1.0
+    },
+    "high performance with low precision": {
+      "retrieved_ids": [
+        "307_low-precision-high-performance_chunk_2",
+        "307_low-precision-high-performance_chunk_1",
+        "307_low-precision-high-performance_chunk_0",
+        "304_next-level-deepseek-r1_chunk_1",
+        "306_apple-sharpens-its-genai-profile_chunk_1"
+      ],
+      "relevant_ids": [
+        "307_low-precision-high-performance_chunk_0",
+        "307_low-precision-high-performance_chunk_1",
+        "307_low-precision-high-performance_chunk_2"
+      ],
+      "precision@5": 0.6,
+      "recall@5": 1.0,
+      "mrr": 1.0,
+      "ndcg@5": 1.0,
+      "ap": 1.0,
+      "top1_accuracy": 1.0
+    },
+    "optimizing performance with minimal accuracy": {
+      "retrieved_ids": [
+        "307_low-precision-high-performance_chunk_2",
+        "307_low-precision-high-performance_chunk_1",
+        "307_low-precision-high-performance_chunk_0",
+        "311_agentic-system-for-harder-problems_chunk_1",
+        "306_apple-sharpens-its-genai-profile_chunk_1"
+      ],
+      "relevant_ids": [
+        "307_low-precision-high-performance_chunk_0",
+        "307_low-precision-high-performance_chunk_1",
+        "307_low-precision-high-performance_chunk_2"
+      ],
+      "precision@5": 0.6,
+      "recall@5": 1.0,
+      "mrr": 1.0,
+      "ndcg@5": 1.0,
+      "ap": 1.0,
+      "top1_accuracy": 1.0
+    },
+    "apple sharpens its genai profile": {
+      "retrieved_ids": [
+        "306_apple-sharpens-its-genai-profile_chunk_3",
+        "306_apple-sharpens-its-genai-profile_chunk_2",
+        "306_apple-sharpens-its-genai-profile_chunk_0",
+        "306_apple-sharpens-its-genai-profile_chunk_1",
+        "303_google-i-o-overdrive_chunk_2"
+      ],
+      "relevant_ids": [
+        "306_apple-sharpens-its-genai-profile_chunk_0",
+        "306_apple-sharpens-its-genai-profile_chunk_1",
+        "306_apple-sharpens-its-genai-profile_chunk_2",
+        "306_apple-sharpens-its-genai-profile_chunk_3"
+      ],
+      "precision@5": 0.8,
+      "recall@5": 1.0,
+      "mrr": 1.0,
+      "ndcg@5": 1.0,
+      "ap": 1.0,
+      "top1_accuracy": 1.0
+    },
+    "how Apple is enhancing its generative AI capabilities": {
+      "retrieved_ids": [
+        "306_apple-sharpens-its-genai-profile_chunk_3",
+        "306_apple-sharpens-its-genai-profile_chunk_2",
+        "306_apple-sharpens-its-genai-profile_chunk_0",
+        "303_google-i-o-overdrive_chunk_2",
+        "306_apple-sharpens-its-genai-profile_chunk_1"
+      ],
+      "relevant_ids": [
+        "306_apple-sharpens-its-genai-profile_chunk_0",
+        "306_apple-sharpens-its-genai-profile_chunk_1",
+        "306_apple-sharpens-its-genai-profile_chunk_2",
+        "306_apple-sharpens-its-genai-profile_chunk_3"
+      ],
+      "precision@5": 0.8,
+      "recall@5": 1.0,
+      "mrr": 1.0,
+      "ndcg@5": 0.9828920819566879,
+      "ap": 0.95,
+      "top1_accuracy": 1.0
+    },
+    "Apple's advancements in artificial intelligence technology": {
+      "retrieved_ids": [
+        "306_apple-sharpens-its-genai-profile_chunk_3",
+        "306_apple-sharpens-its-genai-profile_chunk_2",
+        "306_apple-sharpens-its-genai-profile_chunk_0",
+        "303_google-i-o-overdrive_chunk_2",
+        "306_apple-sharpens-its-genai-profile_chunk_1"
+      ],
+      "relevant_ids": [
+        "306_apple-sharpens-its-genai-profile_chunk_0",
+        "306_apple-sharpens-its-genai-profile_chunk_1",
+        "306_apple-sharpens-its-genai-profile_chunk_2",
+        "306_apple-sharpens-its-genai-profile_chunk_3"
+      ],
+      "precision@5": 0.8,
+      "recall@5": 1.0,
+      "mrr": 1.0,
+      "ndcg@5": 0.9828920819566879,
+      "ap": 0.95,
+      "top1_accuracy": 1.0
+    },
+    "hollywood joins ai copyright fight": {
+      "retrieved_ids": [
+        "306_hollywood-joins-ai-copyright-fight_chunk_2",
+        "306_hollywood-joins-ai-copyright-fight_chunk_1",
+        "306_hollywood-joins-ai-copyright-fight_chunk_0",
+        "303_did-gpt-4o-train-on-o-reilly-books_chunk_2",
+        "310_california-reframes-ai-regulations_chunk_0"
+      ],
+      "relevant_ids": [
+        "306_hollywood-joins-ai-copyright-fight_chunk_0",
+        "306_hollywood-joins-ai-copyright-fight_chunk_1",
+        "306_hollywood-joins-ai-copyright-fight_chunk_2"
+      ],
+      "precision@5": 0.6,
+      "recall@5": 1.0,
+      "mrr": 1.0,
+      "ndcg@5": 1.0,
+      "ap": 1.0,
+      "top1_accuracy": 1.0
+    },
+    "entertainment industry enters battle over AI and copyright": {
+      "retrieved_ids": [
+        "306_hollywood-joins-ai-copyright-fight_chunk_1",
+        "306_hollywood-joins-ai-copyright-fight_chunk_2",
+        "306_hollywood-joins-ai-copyright-fight_chunk_0",
+        "310_california-reframes-ai-regulations_chunk_1",
+        "305_ai-market-trends-in-charts-and-graphs_chunk_1"
+      ],
+      "relevant_ids": [
+        "306_hollywood-joins-ai-copyright-fight_chunk_0",
+        "306_hollywood-joins-ai-copyright-fight_chunk_1",
+        "306_hollywood-joins-ai-copyright-fight_chunk_2"
+      ],
+      "precision@5": 0.6,
+      "recall@5": 1.0,
+      "mrr": 1.0,
+      "ndcg@5": 1.0,
+      "ap": 1.0,
+      "top1_accuracy": 1.0
+    },
+    "film industry's stance on artificial intelligence and intellectual property": {
+      "retrieved_ids": [
+        "306_hollywood-joins-ai-copyright-fight_chunk_1",
+        "306_hollywood-joins-ai-copyright-fight_chunk_2",
+        "306_hollywood-joins-ai-copyright-fight_chunk_0",
+        "310_california-reframes-ai-regulations_chunk_0",
+        "310_california-reframes-ai-regulations_chunk_1"
+      ],
+      "relevant_ids": [
+        "306_hollywood-joins-ai-copyright-fight_chunk_0",
+        "306_hollywood-joins-ai-copyright-fight_chunk_1",
+        "306_hollywood-joins-ai-copyright-fight_chunk_2"
+      ],
+      "precision@5": 0.6,
+      "recall@5": 1.0,
+      "mrr": 1.0,
+      "ndcg@5": 1.0,
+      "ap": 1.0,
+      "top1_accuracy": 1.0
+    },
+    "more reasoning for harder problems": {
+      "retrieved_ids": [
+        "306_more-reasoning-for-harder-problems_chunk_1",
+        "306_more-reasoning-for-harder-problems_chunk_0",
+        "308_reasoning-for-no-reason_chunk_1",
+        "311_agentic-system-for-harder-problems_chunk_1",
+        "308_reasoning-for-no-reason_chunk_0"
+      ],
+      "relevant_ids": [
+        "306_more-reasoning-for-harder-problems_chunk_0",
+        "306_more-reasoning-for-harder-problems_chunk_1"
+      ],
+      "precision@5": 0.4,
+      "recall@5": 1.0,
+      "mrr": 1.0,
+      "ndcg@5": 1.0,
+      "ap": 1.0,
+      "top1_accuracy": 1.0
+    },
+    "increased reasoning skills for complex challenges": {
+      "retrieved_ids": [
+        "308_reasoning-for-no-reason_chunk_1",
+        "312_qwen3-s-agentic-advance_chunk_1",
+        "306_more-reasoning-for-harder-problems_chunk_0",
+        "306_more-reasoning-for-harder-problems_chunk_1",
+        "311_agentic-system-for-harder-problems_chunk_1"
+      ],
+      "relevant_ids": [
+        "306_more-reasoning-for-harder-problems_chunk_0",
+        "306_more-reasoning-for-harder-problems_chunk_1"
+      ],
+      "precision@5": 0.4,
+      "recall@5": 1.0,
+      "mrr": 0.3333333333333333,
+      "ndcg@5": 0.5706417189553201,
+      "ap": 0.41666666666666663,
+      "top1_accuracy": 0.0
+    },
+    "strategies for solving difficult math problems": {
+      "retrieved_ids": [
+        "311_agentic-system-for-harder-problems_chunk_1",
+        "311_agentic-system-for-harder-problems_chunk_0",
+        "306_more-reasoning-for-harder-problems_chunk_0",
+        "306_more-reasoning-for-harder-problems_chunk_1",
+        "310_more-robust-multi-agent-systems_chunk_1"
+      ],
+      "relevant_ids": [
+        "306_more-reasoning-for-harder-problems_chunk_0",
+        "306_more-reasoning-for-harder-problems_chunk_1"
+      ],
+      "precision@5": 0.4,
+      "recall@5": 1.0,
+      "mrr": 0.3333333333333333,
+      "ndcg@5": 0.5706417189553201,
+      "ap": 0.41666666666666663,
+      "top1_accuracy": 0.0
+    },
+    "llm rights historical wrongs": {
+      "retrieved_ids": [
+        "306_llm-rights-historical-wrongs_chunk_1",
+        "306_llm-rights-historical-wrongs_chunk_0",
+        "309_good-models-bad-choices_chunk_3",
+        "309_good-models-bad-choices_chunk_0",
+        "309_good-models-bad-choices_chunk_2"
+      ],
+      "relevant_ids": [
+        "306_llm-rights-historical-wrongs_chunk_0",
+        "306_llm-rights-historical-wrongs_chunk_1"
+      ],
+      "precision@5": 0.4,
+      "recall@5": 1.0,
+      "mrr": 1.0,
+      "ndcg@5": 1.0,
+      "ap": 1.0,
+      "top1_accuracy": 1.0
+    },
+    "how llm is addressing past injustices": {
+      "retrieved_ids": [
+        "306_llm-rights-historical-wrongs_chunk_1",
+        "306_llm-rights-historical-wrongs_chunk_0",
+        "309_good-models-bad-choices_chunk_3",
+        "311_born-to-be-agentic_chunk_2",
+        "309_good-models-bad-choices_chunk_0"
+      ],
+      "relevant_ids": [
+        "306_llm-rights-historical-wrongs_chunk_0",
+        "306_llm-rights-historical-wrongs_chunk_1"
+      ],
+      "precision@5": 0.4,
+      "recall@5": 1.0,
+      "mrr": 1.0,
+      "ndcg@5": 1.0,
+      "ap": 1.0,
+      "top1_accuracy": 1.0
+    },
+    "historical injustices and modern legal reforms": {
+      "retrieved_ids": [
+        "306_llm-rights-historical-wrongs_chunk_0",
+        "306_llm-rights-historical-wrongs_chunk_1",
+        "310_california-reframes-ai-regulations_chunk_1",
+        "310_california-reframes-ai-regulations_chunk_0",
+        "310_california-reframes-ai-regulations_chunk_2"
+      ],
+      "relevant_ids": [
+        "306_llm-rights-historical-wrongs_chunk_0",
+        "306_llm-rights-historical-wrongs_chunk_1"
+      ],
+      "precision@5": 0.4,
+      "recall@5": 1.0,
+      "mrr": 1.0,
+      "ndcg@5": 1.0,
+      "ap": 1.0,
+      "top1_accuracy": 1.0
+    },
+    "more consistent characters and styles": {
+      "retrieved_ids": [
+        "305_more-consistent-characters-and-styles_chunk_2",
+        "305_more-consistent-characters-and-styles_chunk_1",
+        "305_more-consistent-characters-and-styles_chunk_0",
+        "310_more-robust-multi-agent-systems_chunk_1",
+        "303_claude-4-advances-code-generation_chunk_1"
+      ],
+      "relevant_ids": [
+        "305_more-consistent-characters-and-styles_chunk_0",
+        "305_more-consistent-characters-and-styles_chunk_1",
+        "305_more-consistent-characters-and-styles_chunk_2"
+      ],
+      "precision@5": 0.6,
+      "recall@5": 1.0,
+      "mrr": 1.0,
+      "ndcg@5": 1.0,
+      "ap": 1.0,
+      "top1_accuracy": 1.0
+    },
+    "achieving uniformity in character design and artistic styles": {
+      "retrieved_ids": [
+        "305_more-consistent-characters-and-styles_chunk_2",
+        "305_more-consistent-characters-and-styles_chunk_1",
+        "305_more-consistent-characters-and-styles_chunk_0",
+        "306_hollywood-joins-ai-copyright-fight_chunk_0",
+        "310_more-robust-multi-agent-systems_chunk_1"
+      ],
+      "relevant_ids": [
+        "305_more-consistent-characters-and-styles_chunk_0",
+        "305_more-consistent-characters-and-styles_chunk_1",
+        "305_more-consistent-characters-and-styles_chunk_2"
+      ],
+      "precision@5": 0.6,
+      "recall@5": 1.0,
+      "mrr": 1.0,
+      "ndcg@5": 1.0,
+      "ap": 1.0,
+      "top1_accuracy": 1.0
+    },
+    "tips for improving character development and visual style": {
+      "retrieved_ids": [
+        "305_more-consistent-characters-and-styles_chunk_2",
+        "305_more-consistent-characters-and-styles_chunk_1",
+        "305_more-consistent-characters-and-styles_chunk_0",
+        "303_claude-4-advances-code-generation_chunk_2",
+        "310_more-robust-multi-agent-systems_chunk_1"
+      ],
+      "relevant_ids": [
+        "305_more-consistent-characters-and-styles_chunk_0",
+        "305_more-consistent-characters-and-styles_chunk_1",
+        "305_more-consistent-characters-and-styles_chunk_2"
+      ],
+      "precision@5": 0.6,
+      "recall@5": 1.0,
+      "mrr": 1.0,
+      "ndcg@5": 1.0,
+      "ap": 1.0,
+      "top1_accuracy": 1.0
+    },
+    "ai market trends in charts and graphs": {
+      "retrieved_ids": [
+        "305_ai-market-trends-in-charts-and-graphs_chunk_0",
+        "305_ai-market-trends-in-charts-and-graphs_chunk_2",
+        "305_ai-market-trends-in-charts-and-graphs_chunk_1",
+        "304_ai-uses-energy-ai-saves-energy_chunk_0",
+        "304_ai-uses-energy-ai-saves-energy_chunk_2"
+      ],
+      "relevant_ids": [
+        "305_ai-market-trends-in-charts-and-graphs_chunk_0",
+        "305_ai-market-trends-in-charts-and-graphs_chunk_1",
+        "305_ai-market-trends-in-charts-and-graphs_chunk_2"
+      ],
+      "precision@5": 0.6,
+      "recall@5": 1.0,
+      "mrr": 1.0,
+      "ndcg@5": 1.0,
+      "ap": 1.0,
+      "top1_accuracy": 1.0
+    },
+    "visual representation of AI market trends": {
+      "retrieved_ids": [
+        "305_ai-market-trends-in-charts-and-graphs_chunk_0",
+        "305_ai-market-trends-in-charts-and-graphs_chunk_2",
+        "305_ai-market-trends-in-charts-and-graphs_chunk_1",
+        "304_ai-uses-energy-ai-saves-energy_chunk_2",
+        "304_ai-uses-energy-ai-saves-energy_chunk_0"
+      ],
+      "relevant_ids": [
+        "305_ai-market-trends-in-charts-and-graphs_chunk_0",
+        "305_ai-market-trends-in-charts-and-graphs_chunk_1",
+        "305_ai-market-trends-in-charts-and-graphs_chunk_2"
+      ],
+      "precision@5": 0.6,
+      "recall@5": 1.0,
+      "mrr": 1.0,
+      "ndcg@5": 1.0,
+      "ap": 1.0,
+      "top1_accuracy": 1.0
+    },
+    "latest trends in technology markets": {
+      "retrieved_ids": [
+        "305_ai-market-trends-in-charts-and-graphs_chunk_2",
+        "305_ai-market-trends-in-charts-and-graphs_chunk_0",
+        "305_ai-market-trends-in-charts-and-graphs_chunk_1",
+        "312_u-s-lifts-ban-on-ai-chips-for-china_chunk_1",
+        "306_apple-sharpens-its-genai-profile_chunk_3"
+      ],
+      "relevant_ids": [
+        "305_ai-market-trends-in-charts-and-graphs_chunk_0",
+        "305_ai-market-trends-in-charts-and-graphs_chunk_1",
+        "305_ai-market-trends-in-charts-and-graphs_chunk_2"
+      ],
+      "precision@5": 0.6,
+      "recall@5": 1.0,
+      "mrr": 1.0,
+      "ndcg@5": 1.0,
+      "ap": 1.0,
+      "top1_accuracy": 1.0
+    },
+    "benchmarking costs climb": {
+      "retrieved_ids": [
+        "305_benchmarking-costs-climb_chunk_1",
+        "305_benchmarking-costs-climb_chunk_0",
+        "308_amazon-s-constellation-of-compute_chunk_1",
+        "305_ai-market-trends-in-charts-and-graphs_chunk_0",
+        "303_how-deepseek-did-it_chunk_1"
+      ],
+      "relevant_ids": [
+        "305_benchmarking-costs-climb_chunk_0",
+        "305_benchmarking-costs-climb_chunk_1"
+      ],
+      "precision@5": 0.4,
+      "recall@5": 1.0,
+      "mrr": 1.0,
+      "ndcg@5": 1.0,
+      "ap": 1.0,
+      "top1_accuracy": 1.0
+    },
+    "increase in benchmarking expenses": {
+      "retrieved_ids": [
+        "305_benchmarking-costs-climb_chunk_1",
+        "305_benchmarking-costs-climb_chunk_0",
+        "308_amazon-s-constellation-of-compute_chunk_1",
+        "304_next-level-deepseek-r1_chunk_2",
+        "304_next-level-deepseek-r1_chunk_1"
+      ],
+      "relevant_ids": [
+        "305_benchmarking-costs-climb_chunk_0",
+        "305_benchmarking-costs-climb_chunk_1"
+      ],
+      "precision@5": 0.4,
+      "recall@5": 1.0,
+      "mrr": 1.0,
+      "ndcg@5": 1.0,
+      "ap": 1.0,
+      "top1_accuracy": 1.0
+    },
+    "factors affecting business cost analysis": {
+      "retrieved_ids": [
+        "305_benchmarking-costs-climb_chunk_0",
+        "305_benchmarking-costs-climb_chunk_1",
+        "308_amazon-s-constellation-of-compute_chunk_1",
+        "306_more-reasoning-for-harder-problems_chunk_1",
+        "305_ai-market-trends-in-charts-and-graphs_chunk_0"
+      ],
+      "relevant_ids": [
+        "305_benchmarking-costs-climb_chunk_0",
+        "305_benchmarking-costs-climb_chunk_1"
+      ],
+      "precision@5": 0.4,
+      "recall@5": 1.0,
+      "mrr": 1.0,
+      "ndcg@5": 1.0,
+      "ap": 1.0,
+      "top1_accuracy": 1.0
+    },
+    "better video fewer tokens": {
+      "retrieved_ids": [
+        "305_better-video-fewer-tokens_chunk_0",
+        "305_better-video-fewer-tokens_chunk_1",
+        "307_low-precision-high-performance_chunk_2",
+        "307_low-precision-high-performance_chunk_1",
+        "303_how-deepseek-did-it_chunk_1"
+      ],
+      "relevant_ids": [
+        "305_better-video-fewer-tokens_chunk_0",
+        "305_better-video-fewer-tokens_chunk_1"
+      ],
+      "precision@5": 0.4,
+      "recall@5": 1.0,
+      "mrr": 1.0,
+      "ndcg@5": 1.0,
+      "ap": 1.0,
+      "top1_accuracy": 1.0
+    },
+    "improved video with reduced tokens": {
+      "retrieved_ids": [
+        "305_better-video-fewer-tokens_chunk_0",
+        "305_better-video-fewer-tokens_chunk_1",
+        "307_low-precision-high-performance_chunk_2",
+        "307_low-precision-high-performance_chunk_1",
+        "303_google-i-o-overdrive_chunk_0"
+      ],
+      "relevant_ids": [
+        "305_better-video-fewer-tokens_chunk_0",
+        "305_better-video-fewer-tokens_chunk_1"
+      ],
+      "precision@5": 0.4,
+      "recall@5": 1.0,
+      "mrr": 1.0,
+      "ndcg@5": 1.0,
+      "ap": 1.0,
+      "top1_accuracy": 1.0
+    },
+    "enhancing video quality with minimal resources": {
+      "retrieved_ids": [
+        "305_better-video-fewer-tokens_chunk_0",
+        "305_better-video-fewer-tokens_chunk_1",
+        "303_google-i-o-overdrive_chunk_0",
+        "307_low-precision-high-performance_chunk_2",
+        "305_more-consistent-characters-and-styles_chunk_0"
+      ],
+      "relevant_ids": [
+        "305_better-video-fewer-tokens_chunk_0",
+        "305_better-video-fewer-tokens_chunk_1"
+      ],
+      "precision@5": 0.4,
+      "recall@5": 1.0,
+      "mrr": 1.0,
+      "ndcg@5": 1.0,
+      "ap": 1.0,
+      "top1_accuracy": 1.0
+    },
+    "next level deepseek r1": {
+      "retrieved_ids": [
+        "304_next-level-deepseek-r1_chunk_2",
+        "304_next-level-deepseek-r1_chunk_0",
+        "304_next-level-deepseek-r1_chunk_1",
+        "303_how-deepseek-did-it_chunk_2",
+        "303_how-deepseek-did-it_chunk_1"
+      ],
+      "relevant_ids": [
+        "304_next-level-deepseek-r1_chunk_0",
+        "304_next-level-deepseek-r1_chunk_1",
+        "304_next-level-deepseek-r1_chunk_2"
+      ],
+      "precision@5": 0.6,
+      "recall@5": 1.0,
+      "mrr": 1.0,
+      "ndcg@5": 1.0,
+      "ap": 1.0,
+      "top1_accuracy": 1.0
+    },
+    "advanced features of deepseek r1": {
+      "retrieved_ids": [
+        "304_next-level-deepseek-r1_chunk_0",
+        "303_how-deepseek-did-it_chunk_2",
+        "304_next-level-deepseek-r1_chunk_1",
+        "304_next-level-deepseek-r1_chunk_2",
+        "303_how-deepseek-did-it_chunk_1"
+      ],
+      "relevant_ids": [
+        "304_next-level-deepseek-r1_chunk_0",
+        "304_next-level-deepseek-r1_chunk_1",
+        "304_next-level-deepseek-r1_chunk_2"
+      ],
+      "precision@5": 0.6,
+      "recall@5": 1.0,
+      "mrr": 1.0,
+      "ndcg@5": 0.9060254355346823,
+      "ap": 0.8055555555555555,
+      "top1_accuracy": 1.0
+    },
+    "latest deep learning tools and technologies": {
+      "retrieved_ids": [
+        "305_ai-market-trends-in-charts-and-graphs_chunk_0",
+        "304_next-level-deepseek-r1_chunk_0",
+        "305_ai-market-trends-in-charts-and-graphs_chunk_1",
+        "303_how-deepseek-did-it_chunk_1",
+        "303_how-deepseek-did-it_chunk_0"
+      ],
+      "relevant_ids": [
+        "304_next-level-deepseek-r1_chunk_0",
+        "304_next-level-deepseek-r1_chunk_1",
+        "304_next-level-deepseek-r1_chunk_2"
+      ],
+      "precision@5": 0.2,
+      "recall@5": 0.3333333333333333,
+      "mrr": 0.5,
+      "ndcg@5": 0.2960819109658652,
+      "ap": 0.16666666666666666,
+      "top1_accuracy": 0.0
+    },
+    "machine translation in action": {
+      "retrieved_ids": [
+        "304_machine-translation-in-action_chunk_1",
+        "304_machine-translation-in-action_chunk_0",
+        "309_good-models-bad-choices_chunk_0",
+        "306_llm-rights-historical-wrongs_chunk_1",
+        "309_generated-data-for-training-web-agents_chunk_1"
+      ],
+      "relevant_ids": [
+        "304_machine-translation-in-action_chunk_0",
+        "304_machine-translation-in-action_chunk_1"
+      ],
+      "precision@5": 0.4,
+      "recall@5": 1.0,
+      "mrr": 1.0,
+      "ndcg@5": 1.0,
+      "ap": 1.0,
+      "top1_accuracy": 1.0
+    },
+    "how machine translation works in practice": {
+      "retrieved_ids": [
+        "304_machine-translation-in-action_chunk_1",
+        "304_machine-translation-in-action_chunk_0",
+        "306_llm-rights-historical-wrongs_chunk_1",
+        "306_apple-sharpens-its-genai-profile_chunk_1",
+        "305_more-consistent-characters-and-styles_chunk_1"
+      ],
+      "relevant_ids": [
+        "304_machine-translation-in-action_chunk_0",
+        "304_machine-translation-in-action_chunk_1"
+      ],
+      "precision@5": 0.4,
+      "recall@5": 1.0,
+      "mrr": 1.0,
+      "ndcg@5": 1.0,
+      "ap": 1.0,
+      "top1_accuracy": 1.0
+    },
+    "real world applications of language processing tools": {
+      "retrieved_ids": [
+        "304_machine-translation-in-action_chunk_1",
+        "306_llm-rights-historical-wrongs_chunk_1",
+        "309_good-models-bad-choices_chunk_0",
+        "304_machine-translation-in-action_chunk_0",
+        "303_google-i-o-overdrive_chunk_1"
+      ],
+      "relevant_ids": [
+        "304_machine-translation-in-action_chunk_0",
+        "304_machine-translation-in-action_chunk_1"
+      ],
+      "precision@5": 0.4,
+      "recall@5": 1.0,
+      "mrr": 1.0,
+      "ndcg@5": 0.8772153153380493,
+      "ap": 0.75,
+      "top1_accuracy": 1.0
+    },
+    "ai uses energy ai saves energy": {
+      "retrieved_ids": [
+        "304_ai-uses-energy-ai-saves-energy_chunk_0",
+        "304_ai-uses-energy-ai-saves-energy_chunk_2",
+        "304_ai-uses-energy-ai-saves-energy_chunk_1",
+        "305_ai-market-trends-in-charts-and-graphs_chunk_1",
+        "312_white-house-resets-u-s-ai-policy_chunk_1"
+      ],
+      "relevant_ids": [
+        "304_ai-uses-energy-ai-saves-energy_chunk_0",
+        "304_ai-uses-energy-ai-saves-energy_chunk_1",
+        "304_ai-uses-energy-ai-saves-energy_chunk_2"
+      ],
+      "precision@5": 0.6,
+      "recall@5": 1.0,
+      "mrr": 1.0,
+      "ndcg@5": 1.0,
+      "ap": 1.0,
+      "top1_accuracy": 1.0
+    },
+    "how AI consumes and conserves energy": {
+      "retrieved_ids": [
+        "304_ai-uses-energy-ai-saves-energy_chunk_2",
+        "304_ai-uses-energy-ai-saves-energy_chunk_0",
+        "304_ai-uses-energy-ai-saves-energy_chunk_1",
+        "305_ai-market-trends-in-charts-and-graphs_chunk_1",
+        "305_ai-market-trends-in-charts-and-graphs_chunk_0"
+      ],
+      "relevant_ids": [
+        "304_ai-uses-energy-ai-saves-energy_chunk_0",
+        "304_ai-uses-energy-ai-saves-energy_chunk_1",
+        "304_ai-uses-energy-ai-saves-energy_chunk_2"
+      ],
+      "precision@5": 0.6,
+      "recall@5": 1.0,
+      "mrr": 1.0,
+      "ndcg@5": 1.0,
+      "ap": 1.0,
+      "top1_accuracy": 1.0
+    },
+    "impact of artificial intelligence on power consumption and efficiency": {
+      "retrieved_ids": [
+        "304_ai-uses-energy-ai-saves-energy_chunk_2",
+        "304_ai-uses-energy-ai-saves-energy_chunk_0",
+        "304_ai-uses-energy-ai-saves-energy_chunk_1",
+        "305_ai-market-trends-in-charts-and-graphs_chunk_1",
+        "305_ai-market-trends-in-charts-and-graphs_chunk_0"
+      ],
+      "relevant_ids": [
+        "304_ai-uses-energy-ai-saves-energy_chunk_0",
+        "304_ai-uses-energy-ai-saves-energy_chunk_1",
+        "304_ai-uses-energy-ai-saves-energy_chunk_2"
+      ],
+      "precision@5": 0.6,
+      "recall@5": 1.0,
+      "mrr": 1.0,
+      "ndcg@5": 1.0,
+      "ap": 1.0,
+      "top1_accuracy": 1.0
+    },
+    "phishing for agents": {
+      "retrieved_ids": [
+        "304_phishing-for-agents_chunk_1",
+        "304_phishing-for-agents_chunk_0",
+        "309_generated-data-for-training-web-agents_chunk_0",
+        "307_a-research-agent-for-all-biology_chunk_2",
+        "309_generated-data-for-training-web-agents_chunk_1"
+      ],
+      "relevant_ids": [
+        "304_phishing-for-agents_chunk_0",
+        "304_phishing-for-agents_chunk_1"
+      ],
+      "precision@5": 0.4,
+      "recall@5": 1.0,
+      "mrr": 1.0,
+      "ndcg@5": 1.0,
+      "ap": 1.0,
+      "top1_accuracy": 1.0
+    },
+    "cyber scams targeting representatives": {
+      "retrieved_ids": [
+        "304_phishing-for-agents_chunk_1",
+        "304_phishing-for-agents_chunk_0",
+        "310_california-reframes-ai-regulations_chunk_1",
+        "310_california-reframes-ai-regulations_chunk_0",
+        "309_good-models-bad-choices_chunk_0"
+      ],
+      "relevant_ids": [
+        "304_phishing-for-agents_chunk_0",
+        "304_phishing-for-agents_chunk_1"
+      ],
+      "precision@5": 0.4,
+      "recall@5": 1.0,
+      "mrr": 1.0,
+      "ndcg@5": 1.0,
+      "ap": 1.0,
+      "top1_accuracy": 1.0
+    },
+    "how to protect against online hacking": {
+      "retrieved_ids": [
+        "304_phishing-for-agents_chunk_1",
+        "304_phishing-for-agents_chunk_0",
+        "310_california-reframes-ai-regulations_chunk_1",
+        "303_did-gpt-4o-train-on-o-reilly-books_chunk_2",
+        "312_u-s-lifts-ban-on-ai-chips-for-china_chunk_1"
+      ],
+      "relevant_ids": [
+        "304_phishing-for-agents_chunk_0",
+        "304_phishing-for-agents_chunk_1"
+      ],
+      "precision@5": 0.4,
+      "recall@5": 1.0,
+      "mrr": 1.0,
+      "ndcg@5": 1.0,
+      "ap": 1.0,
+      "top1_accuracy": 1.0
+    },
+    "claude 4 advances code generation": {
+      "retrieved_ids": [
+        "303_claude-4-advances-code-generation_chunk_2",
+        "303_claude-4-advances-code-generation_chunk_0",
+        "303_claude-4-advances-code-generation_chunk_1",
+        "307_a-research-agent-for-all-biology_chunk_0",
+        "311_agentic-system-for-harder-problems_chunk_1"
+      ],
+      "relevant_ids": [
+        "303_claude-4-advances-code-generation_chunk_0",
+        "303_claude-4-advances-code-generation_chunk_1",
+        "303_claude-4-advances-code-generation_chunk_2"
+      ],
+      "precision@5": 0.6,
+      "recall@5": 1.0,
+      "mrr": 1.0,
+      "ndcg@5": 1.0,
+      "ap": 1.0,
+      "top1_accuracy": 1.0
+    },
+    "improvements in code generation by Claude 4": {
+      "retrieved_ids": [
+        "303_claude-4-advances-code-generation_chunk_2",
+        "303_claude-4-advances-code-generation_chunk_1",
+        "303_claude-4-advances-code-generation_chunk_0",
+        "307_a-research-agent-for-all-biology_chunk_0",
+        "311_agentic-system-for-harder-problems_chunk_1"
+      ],
+      "relevant_ids": [
+        "303_claude-4-advances-code-generation_chunk_0",
+        "303_claude-4-advances-code-generation_chunk_1",
+        "303_claude-4-advances-code-generation_chunk_2"
+      ],
+      "precision@5": 0.6,
+      "recall@5": 1.0,
+      "mrr": 1.0,
+      "ndcg@5": 1.0,
+      "ap": 1.0,
+      "top1_accuracy": 1.0
+    },
+    "latest developments in AI driven programming tools": {
+      "retrieved_ids": [
+        "305_ai-market-trends-in-charts-and-graphs_chunk_1",
+        "311_powers-realign-in-ai-assisted-coding_chunk_1",
+        "304_machine-translation-in-action_chunk_1",
+        "304_machine-translation-in-action_chunk_0",
+        "305_ai-market-trends-in-charts-and-graphs_chunk_2"
+      ],
+      "relevant_ids": [
+        "303_claude-4-advances-code-generation_chunk_0",
+        "303_claude-4-advances-code-generation_chunk_1",
+        "303_claude-4-advances-code-generation_chunk_2"
+      ],
+      "precision@5": 0.0,
+      "recall@5": 0.0,
+      "mrr": 0.0,
+      "ndcg@5": 0.0,
+      "ap": 0.0,
+      "top1_accuracy": 0.0
+    },
+    "google i o overdrive": {
+      "retrieved_ids": [
+        "303_google-i-o-overdrive_chunk_2",
+        "303_google-i-o-overdrive_chunk_0",
+        "303_google-i-o-overdrive_chunk_1",
+        "311_powers-realign-in-ai-assisted-coding_chunk_1",
+        "303_did-gpt-4o-train-on-o-reilly-books_chunk_2"
+      ],
+      "relevant_ids": [
+        "303_google-i-o-overdrive_chunk_0",
+        "303_google-i-o-overdrive_chunk_1",
+        "303_google-i-o-overdrive_chunk_2"
+      ],
+      "precision@5": 0.6,
+      "recall@5": 1.0,
+      "mrr": 1.0,
+      "ndcg@5": 1.0,
+      "ap": 1.0,
+      "top1_accuracy": 1.0
+    },
+    "google I/O event overdrive": {
+      "retrieved_ids": [
+        "303_google-i-o-overdrive_chunk_2",
+        "303_google-i-o-overdrive_chunk_0",
+        "303_google-i-o-overdrive_chunk_1",
+        "311_powers-realign-in-ai-assisted-coding_chunk_1",
+        "311_powers-realign-in-ai-assisted-coding_chunk_0"
+      ],
+      "relevant_ids": [
+        "303_google-i-o-overdrive_chunk_0",
+        "303_google-i-o-overdrive_chunk_1",
+        "303_google-i-o-overdrive_chunk_2"
+      ],
+      "precision@5": 0.6,
+      "recall@5": 1.0,
+      "mrr": 1.0,
+      "ndcg@5": 1.0,
+      "ap": 1.0,
+      "top1_accuracy": 1.0
+    },
+    "impact of google I/O announcements on tech industry": {
+      "retrieved_ids": [
+        "303_google-i-o-overdrive_chunk_2",
+        "303_google-i-o-overdrive_chunk_0",
+        "311_powers-realign-in-ai-assisted-coding_chunk_1",
+        "311_powers-realign-in-ai-assisted-coding_chunk_0",
+        "303_google-i-o-overdrive_chunk_1"
+      ],
+      "relevant_ids": [
+        "303_google-i-o-overdrive_chunk_0",
+        "303_google-i-o-overdrive_chunk_1",
+        "303_google-i-o-overdrive_chunk_2"
+      ],
+      "precision@5": 0.6,
+      "recall@5": 1.0,
+      "mrr": 1.0,
+      "ndcg@5": 0.9469024295259745,
+      "ap": 0.8666666666666667,
+      "top1_accuracy": 1.0
+    },
+    "how deepseek did it": {
+      "retrieved_ids": [
+        "303_how-deepseek-did-it_chunk_2",
+        "303_how-deepseek-did-it_chunk_1",
+        "304_next-level-deepseek-r1_chunk_0",
+        "304_next-level-deepseek-r1_chunk_2",
+        "304_next-level-deepseek-r1_chunk_1"
+      ],
+      "relevant_ids": [
+        "303_how-deepseek-did-it_chunk_0",
+        "303_how-deepseek-did-it_chunk_1",
+        "303_how-deepseek-did-it_chunk_2"
+      ],
+      "precision@5": 0.4,
+      "recall@5": 0.6666666666666666,
+      "mrr": 1.0,
+      "ndcg@5": 0.7653606369886217,
+      "ap": 0.6666666666666666,
+      "top1_accuracy": 1.0
+    },
+    "the methods deepseek used to accomplish its goals": {
+      "retrieved_ids": [
+        "303_how-deepseek-did-it_chunk_2",
+        "303_how-deepseek-did-it_chunk_1",
+        "304_next-level-deepseek-r1_chunk_2",
+        "304_next-level-deepseek-r1_chunk_0",
+        "304_next-level-deepseek-r1_chunk_1"
+      ],
+      "relevant_ids": [
+        "303_how-deepseek-did-it_chunk_0",
+        "303_how-deepseek-did-it_chunk_1",
+        "303_how-deepseek-did-it_chunk_2"
+      ],
+      "precision@5": 0.4,
+      "recall@5": 0.6666666666666666,
+      "mrr": 1.0,
+      "ndcg@5": 0.7653606369886217,
+      "ap": 0.6666666666666666,
+      "top1_accuracy": 1.0
+    },
+    "deepseek achievements and strategies in tech industry": {
+      "retrieved_ids": [
+        "303_how-deepseek-did-it_chunk_2",
+        "304_next-level-deepseek-r1_chunk_1",
+        "304_next-level-deepseek-r1_chunk_0",
+        "304_next-level-deepseek-r1_chunk_2",
+        "303_how-deepseek-did-it_chunk_1"
+      ],
+      "relevant_ids": [
+        "303_how-deepseek-did-it_chunk_0",
+        "303_how-deepseek-did-it_chunk_1",
+        "303_how-deepseek-did-it_chunk_2"
+      ],
+      "precision@5": 0.4,
+      "recall@5": 0.6666666666666666,
+      "mrr": 1.0,
+      "ndcg@5": 0.6508205185601091,
+      "ap": 0.4666666666666666,
+      "top1_accuracy": 1.0
+    },
+    "did gpt 4o train on o reilly books": {
+      "retrieved_ids": [
+        "303_did-gpt-4o-train-on-o-reilly-books_chunk_3",
+        "303_did-gpt-4o-train-on-o-reilly-books_chunk_0",
+        "303_did-gpt-4o-train-on-o-reilly-books_chunk_2",
+        "303_did-gpt-4o-train-on-o-reilly-books_chunk_1",
+        "303_claude-4-advances-code-generation_chunk_1"
+      ],
+      "relevant_ids": [
+        "303_did-gpt-4o-train-on-o-reilly-books_chunk_0",
+        "303_did-gpt-4o-train-on-o-reilly-books_chunk_1",
+        "303_did-gpt-4o-train-on-o-reilly-books_chunk_2",
+        "303_did-gpt-4o-train-on-o-reilly-books_chunk_3"
+      ],
+      "precision@5": 0.8,
+      "recall@5": 1.0,
+      "mrr": 1.0,
+      "ndcg@5": 1.0,
+      "ap": 1.0,
+      "top1_accuracy": 1.0
+    },
+    "was GPT 4o trained using O'Reilly publications": {
+      "retrieved_ids": [
+        "303_did-gpt-4o-train-on-o-reilly-books_chunk_3",
+        "303_did-gpt-4o-train-on-o-reilly-books_chunk_0",
+        "303_did-gpt-4o-train-on-o-reilly-books_chunk_1",
+        "303_did-gpt-4o-train-on-o-reilly-books_chunk_2",
+        "303_claude-4-advances-code-generation_chunk_1"
+      ],
+      "relevant_ids": [
+        "303_did-gpt-4o-train-on-o-reilly-books_chunk_0",
+        "303_did-gpt-4o-train-on-o-reilly-books_chunk_1",
+        "303_did-gpt-4o-train-on-o-reilly-books_chunk_2",
+        "303_did-gpt-4o-train-on-o-reilly-books_chunk_3"
+      ],
+      "precision@5": 0.8,
+      "recall@5": 1.0,
+      "mrr": 1.0,
+      "ndcg@5": 1.0,
+      "ap": 1.0,
+      "top1_accuracy": 1.0
+    },
+    "how are machine learning models trained on book datasets": {
+      "retrieved_ids": [
+        "309_generated-data-for-training-web-agents_chunk_0",
+        "303_did-gpt-4o-train-on-o-reilly-books_chunk_2",
+        "303_did-gpt-4o-train-on-o-reilly-books_chunk_1",
+        "309_good-models-bad-choices_chunk_2",
+        "303_did-gpt-4o-train-on-o-reilly-books_chunk_0"
+      ],
+      "relevant_ids": [
+        "303_did-gpt-4o-train-on-o-reilly-books_chunk_0",
+        "303_did-gpt-4o-train-on-o-reilly-books_chunk_1",
+        "303_did-gpt-4o-train-on-o-reilly-books_chunk_2",
+        "303_did-gpt-4o-train-on-o-reilly-books_chunk_3"
+      ],
+      "precision@5": 0.6,
+      "recall@5": 0.75,
+      "mrr": 0.5,
+      "ndcg@5": 0.592512031964586,
+      "ap": 0.44166666666666665,
+      "top1_accuracy": 0.0
+    }
+  },
+  "average_metrics": {
+    "mean_precision@5": 0.49666666666666665,
+    "mean_recall@5": 0.8916666666666667,
+    "mean_mrr": 0.8988888888888888,
+    "mean_ndcg@5": 0.8782257483292177,
+    "map": 0.856412037037037,
+    "mean_top1_accuracy": 0.875
+  }
+}
