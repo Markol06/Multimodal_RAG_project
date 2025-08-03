@@ -25,9 +25,14 @@ def split_into_paragraphs(text: str, sentences_per_paragraph: int = 3) -> list[s
         paragraphs.append(paragraph)
     return paragraphs
 
+
 def load_image_from_repo(image_path: str):
-    image_name = os.path.basename(image_path)  # тільки назва файлу
+    if not image_path:
+        return None
+
+    image_name = os.path.basename(image_path)
     repo_path = os.path.join("data", "processed", "images", image_name)
+
     if os.path.exists(repo_path):
         return Image.open(repo_path)
     return None
