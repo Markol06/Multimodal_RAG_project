@@ -64,15 +64,23 @@ if st.button("Search") and query.strip():
                 st.markdown(paragraph)
 
     with col_right:
+        st.write("DEBUG: Images count:", len(result["results"]["images"]))
         if result["results"]["images"]:
+            st.write("DEBUG: First image data:", result["results"]["images"][0])
             first_image_path = result["results"]["images"][0].get("image_path", None)
-            img = load_image_from_repo(first_image_path) if first_image_path else None
-            if img:
-                st.image(img, use_container_width=True)
-            else:
-                st.info("No image available.")
-        else:
-            st.info("No image available.")
+            st.write("DEBUG: Image path:", first_image_path)
+
+            if first_image_path:
+                repo_path = os.path.join("data", "processed", "images", first_image_path)
+                st.write("DEBUG: Full repo path:", repo_path)
+                st.write("DEBUG: File exists:", os.path.exists(repo_path))
+
+                images_dir = "data/processed/images"
+                if os.path.exists(images_dir):
+                    files = os.listdir(images_dir)
+                    st.write("DEBUG: Files in images dir:", files[:5])
+                else:
+                    st.write("DEBUG: Images directory does not exist!")
 
     st.subheader("Search Results")
 
