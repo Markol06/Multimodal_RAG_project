@@ -1,4 +1,5 @@
 import json
+import os
 
 from pathlib import Path
 
@@ -70,7 +71,7 @@ class MultimodalEmbeddings:
                     "issue": issue,
                     "title": title,
                     "url": url,
-                    "image_path": img_path,
+                    "image_path": os.path.basename(img_path) if img_path else None,
                     "content_type": "image"
                 }
             })

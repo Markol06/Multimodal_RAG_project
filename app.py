@@ -30,8 +30,7 @@ def load_image_from_repo(image_path: str):
     if not image_path:
         return None
 
-    image_name = os.path.basename(image_path)
-    repo_path = os.path.join("data", "processed", "images", image_name)
+    repo_path = os.path.join("data", "processed", "images", image_path)
 
     if os.path.exists(repo_path):
         return Image.open(repo_path)
