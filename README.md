@@ -68,7 +68,11 @@ Multimodal_RAG_project/
 ```
 
 ## 🚀 Getting Started
-
+## Option A: Use the deployed application
+```bash
+https://multimodalragproject-knf3ubigxu7mmqpgpuzv8a.streamlit.app/
+```
+## Option B: Run locally
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/Markol06/Multimodal_RAG_project.git
